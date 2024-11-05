@@ -2,6 +2,8 @@
 
 Este repositorio contiene un script en Python que utiliza la biblioteca `PySAT` para resolver problemas de actualizabilidad de paquetes en sistemas Linux. El objetivo del script es determinar cómo se deben instalar, eliminar o actualizar paquetes en un universo definido de paquetes y versiones, considerando sus dependencias y conflictos.
 
+Se puede acceder al codigo desde COLAB (Este codigo no es la versión final, a comparación del contenido del repositorio): ![COLAB](https://colab.research.google.com/drive/1fwuvcV_jObPwqm5S3v-rkOx-tn-wlqVP?usp=sharing)
+
 ## Tabla de Contenidos
 
 - [Requisitos](#requisitos)
