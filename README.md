@@ -9,8 +9,6 @@ Este repositorio contiene un script en Python que utiliza la biblioteca `PySAT` 
 - [Descripción del Código](#descripción-del-código)
 - [Ejemplo de Entrada](#ejemplo-de-entrada)
 - [Resultados](#resultados)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Requisitos
 
