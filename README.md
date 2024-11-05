@@ -31,7 +31,7 @@ pip install pysat
 2. Ejecuta el script:
 
 ```bash
-python script.py
+python main.py
 ```
 
 3. El script leerá el archivo `testcase.txt`, procesará los datos y mostrará los resultados en la consola.
