@@ -1,0 +1,10 @@
+Total de paquetes y versiones en el universo: 15
+Tiempo de ejecucion: 0.00189208984375
+Solución encontrada:
+Costo: 3
+Paquetes instalados: 5
+Paquetes removidos:
+Paquetes actualizados:
+- python
+- c
+- openssl

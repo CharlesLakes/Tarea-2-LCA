@@ -1,0 +1,9 @@
+Total de paquetes y versiones en el universo: 32
+Tiempo de ejecucion: 0.002318859100341797
+Solución encontrada:
+Costo: 2
+Paquetes instalados: 2
+Paquetes removidos:
+Paquetes actualizados:
+- java
+- python

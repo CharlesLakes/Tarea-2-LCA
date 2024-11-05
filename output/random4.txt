@@ -1,0 +1,3 @@
+Total de paquetes y versiones en el universo: 20
+Tiempo de ejecucion: 0.002210378646850586
+No se encontró una solución.

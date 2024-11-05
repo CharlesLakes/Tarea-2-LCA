@@ -1,0 +1,15 @@
+Total de paquetes y versiones en el universo: 203
+Tiempo de ejecucion: 0.01726222038269043
+Solución encontrada:
+Costo: 8
+Paquetes instalados: 11
+Paquetes removidos:
+Paquetes actualizados:
+- rust
+- scala
+- dotnet
+- c++
+- nodejs
+- kotlin
+- ruby
+- php

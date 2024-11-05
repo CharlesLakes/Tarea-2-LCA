@@ -1,0 +1,45 @@
+Total de paquetes y versiones en el universo: 651
+Tiempo de ejecucion: 2.9168314933776855
+Solución encontrada:
+Costo: 38
+Paquetes instalados: 38
+Paquetes removidos:
+Paquetes actualizados:
+- elixir
+- ruby
+- rust
+- objective-c
+- erlang
+- lua
+- csharp
+- assembly
+- prolog
+- R
+- typescript
+- php
+- kotlin
+- c
+- nodejs
+- go
+- haskell
+- python
+- bash
+- swift
+- java
+- shell
+- perl
+- fortran
+- visual-basic
+- powershell
+- c++
+- groovy
+- openssl
+- clojure
+- dotnet
+- sql
+- matlab
+- dart
+- tcl
+- scala
+- jdk
+- f#

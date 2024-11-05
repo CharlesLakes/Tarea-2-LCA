@@ -1,0 +1,18 @@
+Total de paquetes y versiones en el universo: 179
+Tiempo de ejecucion: 0.015526056289672852
+Solución encontrada:
+Costo: 11
+Paquetes instalados: 17
+Paquetes removidos:
+Paquetes actualizados:
+- swift
+- c
+- python
+- java
+- typescript
+- openssl
+- c++
+- kotlin
+- jdk
+- ruby
+- dotnet

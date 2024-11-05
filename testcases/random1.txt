@@ -1,0 +1,194 @@
+32
+ruby 1.1.0
+1
+1
+java 2.9.1
+0
+ruby 3.8.5
+2
+2
+c++ 1.1.1
+python 2.1.0
+0
+1
+c++ 8.0
+ruby 2.9.1
+1
+2
+c++ 11
+c 2.1.0
+2
+c 11
+ruby 8.0
+ruby 8.0
+0
+2
+openssl 11.0.2
+openssl 11.0.2
+ruby 2.1.0
+1
+2
+ruby 2.9.1
+jdk 3.2.0
+1
+jdk 1.1.1
+c++ 2.1.0
+0
+2
+python 1.1.0
+jdk 1.0
+c++ 1.1.1
+2
+1
+c 2.9.1
+0
+2
+python 2.9.1
+python 1.1.0
+java 1.0
+1
+0
+1
+java 1.0
+java 3.2.0
+0
+0
+java 2.1.0
+1
+0
+0
+java 3.6.0
+0
+2
+c 3.8.5
+python 11.0.2
+java 2.9.1
+1
+2
+c++ 2.0
+c++ 3.8.5
+0
+java 2.0
+2
+0
+1
+ruby 3.2.0
+2
+ruby 11.0.2
+python 2.9.1
+python 3.6.0
+0
+0
+python 1.0
+1
+1
+jdk 3.2.0
+1
+c++ 3.2.0
+python 1.1.1
+2
+1
+jdk 1.0
+0
+1
+java 3.6.0
+python 3.8.5
+0
+2
+python 1.0
+java 2.1.0
+python 1.1.0
+2
+0
+2
+python 2.9.1
+jdk 11
+1
+ruby 2.0
+jdk 1.1.1
+0
+0
+jdk 1.1.0
+1
+1
+java 1.0
+2
+ruby 3.2.0
+c++ 3.8.5
+jdk 2.1.0
+0
+0
+openssl 2.0
+0
+0
+openssl 11
+2
+2
+c++ 2.1.0
+ruby 3.6.0
+1
+c++ 1.1.0
+2
+jdk 2.9.1
+c++ 3.2.0
+openssl 8.0
+2
+1
+java 1.1.0
+1
+jdk 3.2.0
+2
+jdk 8.0
+java 3.6.0
+openssl 1.1.0
+2
+2
+ruby 11.0.2
+java 3.2.0
+1
+jdk 2.0
+1
+c 8.0
+openssl 3.8.5
+0
+2
+python 3.6.0
+openssl 8.0
+openssl 2.1.0
+0
+0
+openssl 11.0.2
+1
+2
+jdk 8.0
+openssl 11.0.2
+2
+openssl 1.1.0
+python 2.1.0
+c 1.0
+1
+0
+0
+c 3.8.5
+0
+2
+python 2.9.1
+jdk 1.1.0
+c 11
+1
+0
+1
+java 3.6.0
+c 2.1.0
+2
+2
+openssl 8.0
+java 3.8.5
+0
+2
+c 2.1.0
+c++ 1.1.0
+2
+java 1.0
+python 3.2.0
+c++ 3.6.0

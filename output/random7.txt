@@ -1,0 +1,11 @@
+Total de paquetes y versiones en el universo: 143
+Tiempo de ejecucion: 0.00540614128112793
+Solución encontrada:
+Costo: 4
+Paquetes instalados: 5
+Paquetes removidos:
+Paquetes actualizados:
+- c
+- nodejs
+- dotnet
+- jdk

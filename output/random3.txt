@@ -1,0 +1,9 @@
+Total de paquetes y versiones en el universo: 37
+Tiempo de ejecucion: 0.0024635791778564453
+Solución encontrada:
+Costo: 2
+Paquetes instalados: 4
+Paquetes removidos:
+Paquetes actualizados:
+- python
+- c++

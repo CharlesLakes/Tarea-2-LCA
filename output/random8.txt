@@ -1,0 +1,12 @@
+Total de paquetes y versiones en el universo: 145
+Tiempo de ejecucion: 0.014979124069213867
+Solución encontrada:
+Costo: 5
+Paquetes instalados: 5
+Paquetes removidos:
+Paquetes actualizados:
+- nodejs
+- c++
+- openssl
+- php
+- scala

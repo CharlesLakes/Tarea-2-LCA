@@ -1,0 +1,10 @@
+Total de paquetes y versiones en el universo: 16
+Tiempo de ejecucion: 0.00240325927734375
+Solución encontrada:
+Costo: 19
+Paquetes instalados: 2
+Paquetes removidos:
+- c++
+Paquetes actualizados:
+- jdk
+- openssl

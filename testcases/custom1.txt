@@ -1,0 +1,78 @@
+15
+python 2.9.1
+1
+1
+c++ 1.1.0
+1
+c 1.0
+python 3.8.5
+2
+1
+c++ 2.1.0
+1
+openssl 1.1.1
+1
+ruby 2.3.0
+java 11
+1
+1
+jdk 11.0.2
+1
+jdk 8.0
+java 8
+1
+1
+jdk 8.0
+1
+python 3.6.0
+ruby 2.7.1
+1
+1
+openssl 1.0.2
+1
+python 2.9.1
+ruby 3.0.0
+1
+2
+openssl 1.1.1
+c++ 3.2.0
+1
+java 8
+c++ 1.1.0
+0
+0
+c++ 2.1.0
+0
+1
+c 1.0
+c++ 3.2.0
+1
+1
+c 2.0
+0
+c 1.0
+0
+1
+python 2.9.1
+c 2.0
+0
+0
+openssl 1.0.2
+0
+0
+openssl 1.1.1
+0
+1
+ruby 2.7.1
+jdk 8.0
+0
+1
+java 11
+jdk 11.0.2
+0
+0
+3
+jdk 8.0
+c++ 2.1.0
+c 1.0
+python 3.8.5

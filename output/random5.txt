@@ -1,0 +1,9 @@
+Total de paquetes y versiones en el universo: 25
+Tiempo de ejecucion: 0.0023741722106933594
+Solución encontrada:
+Costo: 2
+Paquetes instalados: 4
+Paquetes removidos:
+Paquetes actualizados:
+- c
+- ruby

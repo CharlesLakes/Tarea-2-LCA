@@ -1,0 +1,6689 @@
+179
+swift 7.2
+0
+6
+perl 1.0
+python 8.0
+rust 17.2
+ruby 2.1.0
+dotnet 2.2
+nodejs 14
+swift 15.0
+2
+10
+typescript 3.2.0
+rust 3.7.2
+jdk 13
+ruby 15.0
+typescript 1.0
+java 3.0
+scala 3.0
+c 2.2
+scala 3.7.2
+dotnet 3.7.2
+6
+ruby 17.2
+jdk 1.1
+jdk 9.3
+go 3.6.0
+c 14
+java 14
+6
+go 1.1
+kotlin 1.1.0
+php 13
+php 6.1.0
+openssl 8.0
+nodejs 7.2
+swift 1.1.0
+3
+0
+4
+perl 3.1
+nodejs 2.1.0
+c++ 10.0
+ruby 2.2
+4
+python 1.2.3
+java 1.1
+swift 4.0
+rust 1.2
+5
+dotnet 3.8.5
+c 1.0.0
+java 3.7.2
+openssl 7.2
+c 2.2
+swift 2.1
+9
+3
+nodejs 2.1.0
+c 3.8.5
+c 6.1.0
+10
+jdk 11.0.2
+openssl 1.1
+python 16.5
+openssl 1.3
+rust 9.3
+php 1.0
+swift 1.1.0
+kotlin 2.2
+go 9.3
+openssl 3.6.0
+8
+kotlin 11.0.2
+openssl 3.0
+nodejs 15.0
+dotnet 1.2.3
+go 1.1.0
+kotlin 3.8.5
+rust 11.0.2
+typescript 16.5
+5
+php 8.0
+ruby 14
+openssl 2.2
+scala 7.2
+java 16.5
+8
+php 1.1
+openssl 3.6.0
+nodejs 8.0
+typescript 11
+ruby 1.2
+c++ 1.1.0
+rust 11.0.2
+kotlin 9.3
+9
+openssl 2.2
+python 2.9.1
+java 1.0
+go 11
+ruby 3.7.2
+php 4.0
+python 5.0
+typescript 3.7.2
+swift 2.0
+3
+python 1.0
+ruby 2.0
+rust 2.1.0
+0
+0
+7
+nodejs 16.5
+python 2.1.0
+jdk 1.1.1
+c++ 1.2
+kotlin 1.2.3
+go 2.9.1
+typescript 2.9.1
+swift 1.0.0
+5
+4
+c 10.0
+nodejs 2.9.1
+swift 3.7.2
+nodejs 3.2.0
+0
+1
+php 3.6.0
+8
+python 1.1
+c++ 1.3
+typescript 13
+c 8.0
+kotlin 11.0.2
+c 3.8.5
+go 3.2.0
+openssl 2.1.0
+5
+scala 1.1
+scala 9.3
+c 8.0
+dotnet 3.1
+typescript 3.8.5
+10
+python 6.1.0
+openssl 4.0
+rust 1.3
+ruby 2.0
+kotlin 2.9.1
+c 3.0
+java 11.0.2
+php 1.1
+perl 4.0
+java 4.0
+swift 11.0.2
+0
+6
+dotnet 11
+openssl 1.0
+swift 3.1
+typescript 1.1.1
+perl 3.1
+perl 2.2
+swift 3.1
+4
+0
+9
+java 7.2
+go 3.7.2
+dotnet 7.2
+dotnet 3.7.2
+c 17.2
+perl 3.2.0
+typescript 1.2.3
+go 4.0
+c++ 16.5
+2
+c 15.0
+perl 17.2
+0
+6
+typescript 11.0.2
+c 12
+openssl 8.0
+jdk 17.2
+dotnet 10.0
+php 2.1.0
+swift 2.1.0
+1
+6
+openssl 3.7.2
+jdk 11.0.2
+c++ 2.1
+nodejs 9.3
+dotnet 2.1.0
+go 1.0
+7
+python 2.9.1
+typescript 13
+python 1.1
+c 3.0
+python 1.1.1
+swift 1.1.0
+jdk 6.1.0
+swift 9.3
+3
+3
+go 12
+typescript 12
+dotnet 3.1
+0
+2
+php 1.2.3
+c++ 2.1
+1
+go 1.1.1
+swift 3.0
+5
+5
+php 1.0.0
+php 3.1
+swift 2.9.1
+jdk 3.1
+ruby 9.3
+8
+php 1.0
+c++ 11.0.2
+openssl 1.0
+kotlin 1.2
+jdk 1.1
+perl 2.1.0
+c++ 8.0
+python 3.7.2
+5
+typescript 3.6.0
+php 1.3
+php 9.3
+dotnet 12
+go 2.0
+5
+openssl 3.6.0
+rust 11
+rust 6.1.0
+c++ 6.1.0
+c 17.2
+6
+scala 6.1.0
+go 8.0
+dotnet 3.6.0
+python 2.0
+go 1.3
+python 6.1.0
+7
+jdk 2.0
+dotnet 1.1
+java 1.2.3
+c 2.1
+perl 3.1
+jdk 10.0
+go 8.0
+swift 10.0
+2
+8
+c 1.1.1
+python 15.0
+openssl 3.2.0
+java 3.1
+swift 1.3
+nodejs 2.2
+scala 1.1.1
+go 6.1.0
+4
+scala 17.2
+scala 17.2
+dotnet 9.3
+java 3.6.0
+3
+dotnet 11
+ruby 1.2
+scala 2.1.0
+c 3.0
+1
+3
+ruby 1.1.0
+c++ 4.0
+nodejs 4.0
+1
+rust 11
+c 10.0
+2
+10
+java 1.0.0
+rust 9.3
+java 3.1
+c 2.1
+typescript 3.0
+scala 16.5
+python 1.1
+scala 3.2.0
+rust 11
+kotlin 2.1
+3
+kotlin 3.1
+dotnet 2.9.1
+c 2.9.1
+1
+kotlin 1.2.3
+c 3.2.0
+5
+10
+dotnet 1.1.1
+swift 12
+nodejs 4.0
+java 17.2
+rust 2.1
+openssl 8.0
+typescript 5.0
+rust 2.1.0
+php 3.6.0
+dotnet 14
+9
+go 10.0
+python 1.1
+perl 8.0
+java 11
+rust 1.1.0
+ruby 12
+c 2.1.0
+rust 1.3
+jdk 8.0
+10
+typescript 1.0.0
+php 6.1.0
+dotnet 3.0
+php 16.5
+perl 1.0.0
+kotlin 3.8.5
+openssl 9.3
+swift 1.2.3
+c++ 13
+go 7.2
+2
+c++ 12
+nodejs 3.6.0
+4
+typescript 11.0.2
+java 3.8.5
+python 9.3
+c 4.0
+5
+java 14
+rust 5.0
+scala 3.8.5
+ruby 17.2
+c++ 3.7.2
+c 2.9.1
+5
+6
+c++ 7.2
+java 3.1
+perl 1.1.1
+perl 2.9.1
+perl 10.0
+swift 3.7.2
+7
+swift 3.1
+perl 8.0
+c++ 7.2
+ruby 1.0
+go 2.2
+scala 2.1.0
+kotlin 8.0
+9
+swift 1.2.3
+c++ 1.2
+c++ 8.0
+openssl 14
+php 3.1
+perl 10.0
+php 5.0
+kotlin 2.1
+typescript 3.1
+2
+perl 3.2.0
+php 11
+4
+jdk 1.0.0
+php 14
+go 1.2.3
+ruby 2.1.0
+0
+c 11.0.2
+9
+2
+rust 8.0
+ruby 3.7.2
+1
+nodejs 6.1.0
+3
+php 3.6.0
+c++ 2.1.0
+python 11
+5
+openssl 17.2
+ruby 2.1
+ruby 16.5
+php 2.9.1
+openssl 5.0
+5
+python 3.8.5
+java 17.2
+java 1.1.0
+php 6.1.0
+python 3.0
+0
+1
+swift 3.7.2
+3
+java 1.2
+kotlin 1.0
+scala 1.2.3
+6
+scala 1.1
+c++ 1.2.3
+dotnet 3.1
+c++ 3.1
+python 14
+python 2.1
+6
+c++ 3.1
+rust 3.8.5
+swift 1.1
+ruby 1.2
+jdk 1.1
+typescript 1.2.3
+c 5.0
+6
+6
+python 1.0.0
+python 3.2.0
+kotlin 2.2
+ruby 11
+scala 17.2
+rust 3.2.0
+1
+c 15.0
+6
+perl 1.0
+openssl 3.2.0
+jdk 2.1
+rust 3.8.5
+rust 10.0
+python 12
+6
+go 11.0.2
+go 3.6.0
+php 4.0
+kotlin 1.1
+nodejs 12
+perl 2.1
+9
+perl 16.5
+kotlin 2.2
+kotlin 3.0
+jdk 11
+kotlin 1.0
+c 2.1
+java 3.7.2
+swift 2.1
+go 1.1.1
+9
+perl 3.7.2
+typescript 15.0
+openssl 4.0
+python 16.5
+typescript 3.0
+c++ 15.0
+openssl 1.1
+ruby 2.1
+scala 8.0
+0
+c 6.1.0
+10
+9
+dotnet 2.1.0
+swift 3.8.5
+c++ 16.5
+java 14
+c 2.0
+ruby 1.0
+c 1.2.3
+jdk 3.6.0
+python 1.2.3
+2
+openssl 2.0
+java 1.1.0
+8
+dotnet 17.2
+perl 1.2
+typescript 11.0.2
+go 3.8.5
+ruby 14
+typescript 10.0
+java 15.0
+go 8.0
+4
+dotnet 3.1
+scala 3.0
+ruby 5.0
+typescript 1.3
+7
+java 17.2
+typescript 1.1.1
+dotnet 11.0.2
+swift 2.0
+python 2.0
+php 3.2.0
+jdk 2.0
+5
+php 8.0
+python 3.1
+dotnet 14
+ruby 2.9.1
+jdk 1.0.0
+6
+kotlin 1.0
+perl 17.2
+c++ 3.7.2
+go 8.0
+kotlin 1.2.3
+scala 3.1
+7
+go 2.1
+c 14
+c 11
+go 13
+java 7.2
+c++ 12
+ruby 3.7.2
+5
+c 15.0
+dotnet 5.0
+jdk 4.0
+go 5.0
+typescript 1.0.0
+7
+scala 3.2.0
+php 1.1.1
+kotlin 6.1.0
+ruby 11.0.2
+php 2.1
+ruby 16.5
+kotlin 2.9.1
+7
+openssl 7.2
+kotlin 1.3
+swift 3.0
+nodejs 3.0
+typescript 12
+c 1.1.0
+ruby 1.1
+c 16.5
+7
+6
+php 2.1
+php 2.0
+scala 9.3
+typescript 3.6.0
+swift 4.0
+java 1.0.0
+6
+c++ 7.2
+ruby 6.1.0
+jdk 10.0
+scala 3.0
+openssl 1.3
+openssl 3.7.2
+8
+kotlin 11.0.2
+perl 2.0
+php 9.3
+kotlin 3.8.5
+scala 3.2.0
+python 1.3
+c++ 3.8.5
+c 2.2
+1
+typescript 1.1.1
+2
+nodejs 1.1.1
+java 3.1
+0
+10
+ruby 14
+jdk 1.3
+perl 6.1.0
+ruby 1.0
+kotlin 9.3
+perl 2.0
+perl 10.0
+kotlin 14
+nodejs 17.2
+jdk 2.9.1
+1
+openssl 4.0
+c 3.8.5
+5
+10
+c 9.3
+scala 8.0
+swift 1.2
+scala 3.7.2
+openssl 1.1.0
+go 14
+swift 13
+go 1.1
+jdk 1.0.0
+python 11
+3
+perl 11.0.2
+c 3.8.5
+go 5.0
+1
+kotlin 2.9.1
+10
+c++ 15.0
+kotlin 3.1
+swift 1.1.1
+jdk 1.2
+go 3.2.0
+nodejs 1.1.1
+dotnet 1.1
+rust 9.3
+scala 2.1
+ruby 8.0
+4
+ruby 1.0.0
+rust 12
+php 2.2
+kotlin 3.8.5
+8
+perl 11
+swift 3.0
+scala 1.1.1
+python 1.0
+jdk 2.2
+typescript 11.0.2
+c++ 17.2
+c++ 2.9.1
+c 12
+4
+7
+php 3.7.2
+java 11.0.2
+rust 1.2.3
+typescript 1.1.1
+jdk 1.2.3
+perl 2.0
+scala 9.3
+2
+kotlin 17.2
+swift 3.1
+3
+c 1.3
+openssl 8.0
+python 1.3
+2
+nodejs 1.0.0
+dotnet 1.1.0
+2
+typescript 2.2
+go 1.1.1
+scala 11
+9
+4
+typescript 9.3
+perl 3.7.2
+typescript 3.2.0
+typescript 10.0
+0
+1
+swift 2.9.1
+2
+perl 9.3
+swift 1.2.3
+10
+c++ 6.1.0
+python 2.2
+ruby 3.7.2
+scala 3.8.5
+nodejs 3.8.5
+c++ 3.0
+ruby 2.0
+c 1.2.3
+dotnet 14
+swift 1.1
+3
+php 4.0
+typescript 13
+ruby 3.1
+6
+c++ 1.2.3
+kotlin 13
+typescript 14
+php 2.2
+dotnet 10.0
+java 2.0
+8
+python 2.1
+python 3.2.0
+openssl 11
+go 2.1
+php 15.0
+c++ 9.3
+typescript 1.0
+c++ 14
+10
+dotnet 1.2.3
+c 3.6.0
+swift 8.0
+python 1.2.3
+typescript 10.0
+nodejs 11
+dotnet 1.2
+jdk 1.0.0
+rust 16.5
+c 17.2
+6
+swift 9.3
+perl 1.1.0
+nodejs 3.7.2
+swift 3.1
+dotnet 6.1.0
+ruby 1.0
+scala 14
+8
+5
+jdk 3.7.2
+go 10.0
+nodejs 1.0.0
+jdk 3.2.0
+dotnet 3.8.5
+6
+ruby 15.0
+go 8.0
+openssl 1.1
+java 14
+openssl 4.0
+nodejs 11.0.2
+10
+perl 10.0
+swift 1.1
+kotlin 1.3
+kotlin 11.0.2
+perl 1.2.3
+nodejs 15.0
+rust 10.0
+scala 3.7.2
+java 11
+perl 3.8.5
+6
+php 3.6.0
+ruby 3.1
+kotlin 10.0
+swift 3.1
+typescript 1.1.0
+c++ 15.0
+4
+dotnet 14
+java 13
+scala 5.0
+kotlin 3.6.0
+6
+c++ 2.1
+swift 3.8.5
+php 3.0
+c++ 6.1.0
+perl 2.2
+nodejs 2.1
+10
+scala 15.0
+typescript 8.0
+c++ 2.2
+c 10.0
+python 1.0
+perl 2.0
+java 3.0
+ruby 2.9.1
+dotnet 2.2
+python 3.7.2
+4
+typescript 1.1.1
+openssl 16.5
+nodejs 12
+rust 1.1.0
+5
+dotnet 2.1
+kotlin 2.2
+rust 16.5
+typescript 13
+c++ 13
+scala 1.0
+10
+0
+4
+kotlin 11.0.2
+java 2.2
+ruby 5.0
+jdk 3.6.0
+2
+scala 1.0
+python 1.0
+3
+c 7.2
+typescript 3.1
+openssl 3.1
+4
+php 11
+php 1.0
+rust 16.5
+c 5.0
+5
+php 3.0
+swift 1.0.0
+nodejs 1.1.1
+python 3.0
+php 1.0
+8
+perl 3.2.0
+go 2.1
+scala 11.0.2
+ruby 14
+typescript 1.1
+rust 1.1
+ruby 17.2
+jdk 12
+2
+kotlin 7.2
+java 3.6.0
+6
+typescript 2.9.1
+php 9.3
+c++ 17.2
+scala 3.8.5
+jdk 8.0
+scala 6.1.0
+8
+c++ 5.0
+go 2.0
+php 3.7.2
+rust 1.1
+go 4.0
+dotnet 2.2
+python 9.3
+python 1.1.0
+9
+java 3.7.2
+jdk 2.0
+rust 4.0
+typescript 2.1.0
+kotlin 2.1
+typescript 3.2.0
+nodejs 14
+rust 12
+go 5.0
+scala 11.0.2
+6
+6
+python 8.0
+openssl 5.0
+python 7.2
+nodejs 1.3
+c++ 11.0.2
+c 1.2.3
+10
+go 14
+scala 1.2
+c++ 1.2.3
+kotlin 2.1
+typescript 17.2
+swift 3.2.0
+nodejs 1.0
+dotnet 14
+jdk 8.0
+perl 1.2.3
+4
+perl 10.0
+php 1.1
+kotlin 4.0
+c 15.0
+2
+php 1.1
+kotlin 2.2
+5
+nodejs 3.2.0
+openssl 14
+perl 5.0
+dotnet 15.0
+nodejs 3.8.5
+2
+perl 9.3
+ruby 1.0
+5
+c++ 2.2
+dotnet 15.0
+go 10.0
+kotlin 3.2.0
+swift 2.2
+scala 4.0
+4
+0
+3
+perl 6.1.0
+dotnet 1.2.3
+perl 2.1
+10
+typescript 15.0
+java 3.6.0
+typescript 1.2.3
+c 15.0
+dotnet 3.6.0
+perl 9.3
+perl 1.0
+c++ 1.1.1
+nodejs 8.0
+perl 13
+8
+jdk 2.2
+python 3.7.2
+java 8.0
+rust 3.8.5
+php 13
+python 1.2
+scala 14
+perl 17.2
+7
+c 3.1
+go 2.1
+php 10.0
+jdk 3.1
+rust 1.1.0
+java 16.5
+perl 2.9.1
+scala 2.2
+7
+5
+ruby 3.6.0
+rust 8.0
+scala 7.2
+python 8.0
+openssl 7.2
+4
+go 7.2
+go 1.3
+kotlin 3.7.2
+php 1.2
+5
+rust 1.0
+nodejs 10.0
+php 10.0
+c++ 3.8.5
+c 7.2
+7
+jdk 1.0
+nodejs 17.2
+java 2.0
+scala 11.0.2
+jdk 1.2
+swift 16.5
+rust 3.0
+1
+c++ 1.1.0
+2
+php 2.9.1
+typescript 4.0
+3
+openssl 3.7.2
+php 12
+java 10.0
+3
+swift 8.0
+php 8.0
+dotnet 1.1.1
+scala 2.1.0
+3
+5
+c++ 2.1
+perl 11.0.2
+c 9.3
+dotnet 7.2
+perl 7.2
+6
+php 1.3
+ruby 14
+c 13
+perl 12
+c++ 3.1
+go 2.9.1
+2
+scala 1.1.1
+nodejs 1.1.1
+9
+dotnet 4.0
+go 11.0.2
+kotlin 2.9.1
+rust 1.2
+jdk 6.1.0
+rust 6.1.0
+go 1.2.3
+nodejs 1.1.0
+typescript 2.0
+scala 1.3
+0
+4
+openssl 3.0
+rust 2.0
+kotlin 6.1.0
+dotnet 1.0
+scala 3.8.5
+6
+1
+typescript 2.1.0
+8
+c 2.0
+python 1.1.1
+c 3.7.2
+kotlin 11
+nodejs 1.3
+scala 1.0.0
+typescript 4.0
+go 2.9.1
+5
+jdk 9.3
+go 1.0
+php 3.2.0
+ruby 3.0
+kotlin 2.2
+9
+ruby 15.0
+php 2.1
+java 3.1
+jdk 1.0
+jdk 3.7.2
+nodejs 1.2.3
+perl 1.2
+scala 5.0
+openssl 1.1.1
+9
+php 16.5
+perl 1.0
+swift 2.1
+jdk 12
+go 11
+jdk 1.2
+dotnet 1.2
+jdk 13
+c++ 1.1.0
+4
+ruby 2.1
+kotlin 2.1.0
+go 1.3
+ruby 1.2.3
+9
+ruby 6.1.0
+python 3.7.2
+nodejs 2.1.0
+rust 2.1
+c 2.9.1
+c++ 1.2
+c 3.1
+java 3.6.0
+swift 3.0
+scala 2.9.1
+8
+4
+jdk 3.0
+rust 9.3
+python 6.1.0
+kotlin 3.8.5
+0
+10
+ruby 3.1
+python 1.1.1
+go 2.1.0
+go 9.3
+c++ 5.0
+jdk 1.1
+ruby 4.0
+php 1.1.1
+scala 7.2
+jdk 6.1.0
+4
+nodejs 1.0
+python 1.2
+dotnet 2.1
+swift 14
+0
+9
+c 12
+jdk 9.3
+openssl 1.0.0
+nodejs 13
+dotnet 1.1
+jdk 9.3
+ruby 9.3
+jdk 2.2
+jdk 2.0
+9
+php 16.5
+jdk 3.1
+c++ 1.1.0
+scala 12
+rust 1.0.0
+scala 3.1
+perl 3.1
+dotnet 1.3
+typescript 7.2
+8
+ruby 2.1
+rust 1.3
+swift 8.0
+php 6.1.0
+python 1.1.1
+scala 2.9.1
+perl 1.0
+typescript 5.0
+2
+openssl 2.9.1
+c++ 9.3
+scala 6.1.0
+10
+3
+dotnet 3.2.0
+jdk 12
+c 2.1.0
+5
+dotnet 5.0
+openssl 2.1.0
+rust 3.7.2
+nodejs 1.2
+ruby 6.1.0
+3
+php 14
+python 3.1
+rust 2.1.0
+10
+openssl 2.1.0
+c++ 3.2.0
+dotnet 2.2
+openssl 4.0
+jdk 5.0
+python 1.1.1
+jdk 1.3
+swift 1.3
+java 8.0
+nodejs 1.1
+4
+perl 1.0.0
+jdk 13
+java 1.0
+php 2.0
+8
+typescript 2.2
+nodejs 7.2
+kotlin 2.2
+java 3.1
+php 2.2
+kotlin 3.0
+openssl 2.1
+openssl 11.0.2
+3
+swift 1.0
+typescript 9.3
+swift 4.0
+3
+dotnet 1.1.0
+swift 4.0
+go 3.0
+3
+nodejs 16.5
+python 11.0.2
+c++ 3.8.5
+7
+typescript 1.0.0
+java 12
+java 1.2.3
+dotnet 8.0
+jdk 4.0
+perl 1.2.3
+jdk 6.1.0
+4
+nodejs 3.8.5
+dotnet 9.3
+go 5.0
+perl 16.5
+scala 3.1
+3
+6
+jdk 3.7.2
+php 1.0
+scala 3.7.2
+php 12
+kotlin 3.8.5
+nodejs 2.1
+5
+typescript 1.1
+openssl 1.1.1
+python 8.0
+python 2.1.0
+java 9.3
+8
+jdk 17.2
+openssl 4.0
+rust 3.2.0
+go 1.3
+python 6.1.0
+openssl 2.2
+scala 1.0.0
+typescript 5.0
+0
+scala 1.1.0
+6
+1
+kotlin 17.2
+2
+java 1.3
+kotlin 5.0
+2
+c 2.9.1
+openssl 3.8.5
+1
+java 11
+5
+typescript 17.2
+nodejs 2.9.1
+nodejs 1.1.1
+python 4.0
+ruby 13
+3
+typescript 6.1.0
+ruby 5.0
+kotlin 8.0
+4
+scala 1.0
+openssl 14
+c 4.0
+swift 1.0
+scala 12
+4
+10
+python 2.2
+jdk 3.0
+scala 1.3
+rust 4.0
+rust 8.0
+perl 12
+c 13
+typescript 2.2
+rust 14
+c++ 2.1.0
+2
+php 2.9.1
+c 1.3
+10
+kotlin 3.7.2
+go 8.0
+dotnet 14
+jdk 1.1.1
+go 3.1
+rust 4.0
+java 1.1.1
+openssl 13
+python 9.3
+typescript 7.2
+6
+python 4.0
+scala 3.8.5
+php 6.1.0
+jdk 3.6.0
+jdk 10.0
+swift 13
+9
+typescript 17.2
+perl 3.6.0
+java 16.5
+perl 3.7.2
+c 11.0.2
+java 11.0.2
+typescript 1.3
+rust 1.2
+nodejs 3.1
+nodejs 3.2.0
+0
+1
+swift 3.8.5
+nodejs 1.3
+2
+2
+c++ 4.0
+openssl 3.8.5
+7
+go 3.7.2
+c 9.3
+typescript 3.1
+nodejs 1.0
+kotlin 12
+scala 1.1.0
+c++ 3.6.0
+5
+go 16.5
+rust 1.0.0
+nodejs 14
+typescript 15.0
+rust 4.0
+nodejs 2.9.1
+3
+2
+openssl 2.1
+kotlin 17.2
+5
+c++ 12
+scala 2.1
+perl 10.0
+java 1.1
+c++ 15.0
+10
+typescript 2.2
+python 9.3
+nodejs 1.2.3
+perl 3.8.5
+c++ 2.9.1
+kotlin 2.1.0
+rust 11.0.2
+go 16.5
+swift 12
+c++ 2.1.0
+1
+java 15.0
+nodejs 2.0
+5
+3
+nodejs 6.1.0
+dotnet 1.3
+scala 11
+1
+python 11.0.2
+7
+rust 1.1.0
+go 8.0
+c 1.1
+java 3.2.0
+swift 12
+go 1.2.3
+ruby 1.0
+1
+openssl 14
+2
+kotlin 3.6.0
+c++ 2.1
+3
+c 1.1.0
+rust 14
+perl 1.3
+nodejs 5.0
+4
+0
+2
+c 3.2.0
+openssl 1.3
+6
+typescript 8.0
+ruby 2.1.0
+java 1.2
+scala 2.0
+java 1.1.0
+c 4.0
+8
+dotnet 16.5
+java 12
+jdk 8.0
+php 1.2.3
+c 13
+perl 1.1.1
+jdk 3.1
+ruby 16.5
+10
+jdk 1.1.0
+jdk 7.2
+kotlin 7.2
+swift 12
+ruby 3.6.0
+rust 1.3
+ruby 2.0
+scala 3.2.0
+c 3.2.0
+openssl 7.2
+nodejs 4.0
+9
+5
+perl 11.0.2
+swift 11
+typescript 1.1
+openssl 1.0.0
+java 15.0
+5
+python 3.8.5
+typescript 8.0
+scala 5.0
+kotlin 1.1
+ruby 14
+5
+typescript 3.6.0
+c 11.0.2
+perl 3.2.0
+java 11
+c++ 3.8.5
+7
+scala 1.2.3
+dotnet 8.0
+swift 8.0
+typescript 3.0
+openssl 3.2.0
+java 1.0.0
+perl 6.1.0
+7
+python 2.1
+openssl 2.1.0
+c 1.2.3
+kotlin 3.8.5
+scala 17.2
+nodejs 3.7.2
+python 10.0
+2
+openssl 1.2
+rust 12
+2
+dotnet 1.0
+kotlin 3.8.5
+4
+c++ 2.9.1
+java 2.0
+rust 3.0
+c++ 14
+8
+ruby 16.5
+nodejs 1.0.0
+kotlin 2.9.1
+scala 3.1
+jdk 14
+c++ 11.0.2
+ruby 1.1.1
+swift 9.3
+4
+rust 1.2
+perl 2.1.0
+jdk 1.0
+rust 2.1.0
+nodejs 14
+7
+6
+openssl 3.7.2
+go 1.1
+rust 1.1.1
+rust 1.1.0
+java 1.0
+java 5.0
+5
+c++ 9.3
+rust 1.1.0
+swift 9.3
+rust 3.7.2
+scala 3.8.5
+9
+nodejs 1.1
+nodejs 11.0.2
+jdk 3.0
+nodejs 3.2.0
+c++ 2.9.1
+kotlin 14
+swift 14
+go 1.2.3
+python 16.5
+2
+swift 1.2.3
+scala 1.3
+10
+nodejs 1.1.1
+scala 12
+swift 5.0
+go 16.5
+jdk 17.2
+rust 10.0
+ruby 3.6.0
+rust 1.0.0
+perl 1.3
+rust 1.2.3
+4
+c++ 3.2.0
+go 1.2.3
+dotnet 16.5
+java 12
+6
+dotnet 12
+perl 1.0
+php 17.2
+java 3.1
+typescript 2.1
+typescript 10.0
+4
+nodejs 1.1.0
+swift 1.1.0
+java 1.2.3
+rust 1.2
+python 2.2
+7
+6
+dotnet 1.1.1
+jdk 9.3
+php 2.9.1
+dotnet 11
+rust 2.2
+dotnet 15.0
+0
+3
+php 16.5
+ruby 1.2.3
+java 15.0
+10
+kotlin 1.2.3
+java 11.0.2
+typescript 1.2
+c++ 12
+nodejs 1.0.0
+swift 1.0
+openssl 3.7.2
+php 17.2
+typescript 9.3
+nodejs 10.0
+3
+c++ 3.1
+dotnet 1.3
+php 2.1.0
+8
+swift 2.9.1
+c 3.2.0
+go 11.0.2
+php 1.2
+openssl 2.1.0
+go 1.3
+swift 2.9.1
+go 11.0.2
+4
+nodejs 2.0
+nodejs 1.2
+java 9.3
+go 2.1.0
+1
+java 13
+python 3.2.0
+2
+1
+php 3.1
+7
+nodejs 2.2
+python 3.8.5
+typescript 15.0
+dotnet 3.6.0
+ruby 3.0
+kotlin 3.6.0
+dotnet 1.2.3
+5
+jdk 11.0.2
+kotlin 1.2.3
+jdk 2.0
+java 2.9.1
+python 8.0
+python 1.3
+7
+4
+nodejs 1.0.0
+ruby 3.1
+php 14
+openssl 16.5
+0
+4
+swift 1.1.1
+swift 6.1.0
+scala 1.0.0
+typescript 10.0
+6
+python 17.2
+go 3.8.5
+java 2.1
+go 12
+dotnet 11
+java 1.1
+1
+php 3.6.0
+3
+dotnet 8.0
+perl 17.2
+nodejs 2.1
+2
+php 16.5
+java 10.0
+0
+python 1.1.0
+6
+8
+kotlin 3.2.0
+java 3.8.5
+typescript 10.0
+rust 11.0.2
+openssl 1.0
+kotlin 4.0
+dotnet 17.2
+kotlin 2.0
+3
+java 13
+openssl 4.0
+ruby 11.0.2
+7
+jdk 1.2
+jdk 3.6.0
+c++ 12
+ruby 3.1
+kotlin 1.2
+python 2.1.0
+kotlin 3.2.0
+5
+ruby 4.0
+rust 12
+rust 11
+openssl 12
+typescript 2.2
+7
+openssl 2.1.0
+c++ 10.0
+nodejs 6.1.0
+perl 14
+scala 7.2
+java 3.8.5
+dotnet 10.0
+7
+rust 1.0.0
+kotlin 9.3
+nodejs 3.7.2
+swift 1.1.1
+python 5.0
+c 1.0
+typescript 1.0
+4
+typescript 13
+go 1.1
+c 1.1
+ruby 2.2
+python 11
+7
+7
+swift 1.2.3
+nodejs 1.1
+c++ 3.6.0
+openssl 14
+c 1.1.1
+swift 3.8.5
+perl 2.1.0
+9
+jdk 4.0
+scala 2.0
+typescript 1.0.0
+c 1.1.1
+rust 6.1.0
+nodejs 1.3
+jdk 16.5
+c 6.1.0
+kotlin 4.0
+4
+c 17.2
+perl 2.1
+openssl 6.1.0
+php 2.1.0
+6
+scala 3.2.0
+swift 11
+go 1.3
+openssl 2.2
+nodejs 1.1.0
+jdk 4.0
+7
+nodejs 1.0
+go 17.2
+ruby 5.0
+perl 17.2
+ruby 2.2
+typescript 13
+php 12
+9
+rust 2.0
+rust 3.0
+scala 2.2
+java 14
+swift 3.1
+ruby 11.0.2
+php 11.0.2
+go 16.5
+rust 2.0
+8
+php 1.1
+openssl 2.9.1
+c 1.3
+scala 1.0
+openssl 1.0
+kotlin 2.1.0
+c++ 3.7.2
+typescript 17.2
+1
+php 2.1
+python 5.0
+0
+5
+rust 3.2.0
+swift 1.1.1
+nodejs 14
+jdk 4.0
+php 2.1
+python 11.0.2
+0
+9
+ruby 15.0
+kotlin 1.1.1
+python 3.2.0
+rust 5.0
+swift 11
+c++ 16.5
+scala 16.5
+dotnet 1.0
+c 10.0
+python 6.1.0
+7
+2
+python 12
+c 13
+3
+java 6.1.0
+rust 14
+swift 1.2.3
+2
+swift 1.1
+typescript 11
+10
+ruby 3.7.2
+c 1.2.3
+perl 2.0
+scala 13
+jdk 12
+swift 5.0
+go 9.3
+ruby 2.2
+scala 1.2.3
+swift 1.0
+6
+perl 3.0
+c++ 13
+perl 1.1.1
+scala 1.1
+dotnet 2.2
+perl 12
+8
+typescript 14
+typescript 1.0
+c 15.0
+rust 1.0
+ruby 7.2
+jdk 6.1.0
+jdk 11
+swift 2.2
+5
+scala 1.0.0
+openssl 14
+rust 12
+kotlin 2.1.0
+jdk 6.1.0
+7
+kotlin 1.0
+java 1.1
+python 9.3
+go 6.1.0
+nodejs 8.0
+ruby 1.2.3
+ruby 1.3
+python 9.3
+6
+1
+go 13
+9
+go 5.0
+php 1.0
+perl 3.7.2
+dotnet 15.0
+dotnet 4.0
+nodejs 17.2
+c 1.2.3
+java 2.2
+scala 2.2
+7
+ruby 3.2.0
+perl 6.1.0
+rust 3.2.0
+python 11.0.2
+perl 14
+kotlin 3.1
+go 1.1
+3
+kotlin 5.0
+ruby 3.0
+ruby 2.2
+1
+rust 1.3
+1
+perl 8.0
+5
+java 7.2
+swift 2.9.1
+perl 2.1.0
+swift 2.1
+nodejs 11.0.2
+java 1.0.0
+4
+2
+php 6.1.0
+openssl 1.1
+8
+go 11
+python 11
+scala 3.0
+ruby 12
+nodejs 15.0
+rust 9.3
+swift 2.1.0
+php 2.1.0
+9
+perl 2.1.0
+swift 9.3
+jdk 7.2
+php 1.1.0
+swift 2.1.0
+nodejs 2.9.1
+python 3.2.0
+swift 3.1
+scala 3.2.0
+9
+nodejs 1.3
+typescript 2.1
+perl 17.2
+ruby 12
+swift 1.2.3
+nodejs 1.1
+swift 1.3
+scala 16.5
+java 14
+8
+java 2.1
+kotlin 17.2
+nodejs 3.0
+java 1.2.3
+typescript 17.2
+php 3.8.5
+python 3.1
+jdk 5.0
+java 3.6.0
+1
+2
+jdk 13
+swift 2.1.0
+1
+kotlin 3.6.0
+java 2.9.1
+4
+7
+java 1.2.3
+scala 2.1
+scala 14
+php 3.1
+openssl 1.0.0
+scala 1.1
+scala 16.5
+3
+nodejs 1.1
+dotnet 1.0.0
+perl 1.2.3
+2
+dotnet 15.0
+openssl 1.1.1
+4
+rust 1.0
+openssl 3.1
+swift 10.0
+java 1.1.0
+7
+openssl 3.0
+go 2.1
+swift 3.2.0
+jdk 11.0.2
+java 2.1.0
+go 1.2.3
+java 1.2
+java 2.0
+5
+9
+nodejs 1.2.3
+php 1.1
+swift 2.1.0
+java 12
+go 11.0.2
+java 2.1.0
+python 2.2
+java 1.3
+php 1.1.0
+4
+rust 12
+dotnet 1.1.0
+dotnet 2.2
+rust 6.1.0
+7
+kotlin 2.9.1
+openssl 1.1.1
+scala 2.0
+kotlin 3.7.2
+kotlin 1.1
+jdk 3.2.0
+python 10.0
+9
+jdk 5.0
+rust 2.1
+c 1.3
+java 2.2
+perl 1.0.0
+c 1.1
+openssl 14
+ruby 15.0
+java 3.7.2
+3
+go 8.0
+c++ 3.6.0
+scala 2.9.1
+1
+c++ 3.1
+java 11.0.2
+6
+7
+typescript 1.0
+scala 12
+swift 3.8.5
+kotlin 4.0
+perl 11.0.2
+swift 1.2.3
+openssl 1.3
+2
+ruby 4.0
+rust 9.3
+4
+python 2.0
+go 1.1.0
+ruby 5.0
+openssl 1.3
+10
+perl 3.0
+perl 3.7.2
+typescript 1.1.1
+nodejs 15.0
+java 3.0
+c++ 1.0.0
+go 2.2
+kotlin 10.0
+openssl 8.0
+java 1.1.1
+1
+rust 1.0
+7
+dotnet 3.1
+openssl 14
+jdk 2.1.0
+rust 3.6.0
+c 17.2
+c 1.1.1
+kotlin 6.1.0
+8
+perl 9.3
+go 1.2.3
+swift 3.1
+jdk 4.0
+c++ 7.2
+typescript 2.9.1
+rust 2.2
+java 1.3
+java 14
+10
+6
+python 1.2
+swift 8.0
+nodejs 1.3
+python 2.2
+swift 5.0
+nodejs 12
+2
+dotnet 3.2.0
+c 5.0
+5
+c++ 3.6.0
+java 6.1.0
+jdk 6.1.0
+nodejs 1.1
+dotnet 2.1.0
+6
+typescript 14
+scala 3.0
+python 2.1.0
+java 1.1.0
+swift 14
+typescript 15.0
+7
+dotnet 1.0.0
+java 12
+go 10.0
+c 17.2
+ruby 3.7.2
+rust 8.0
+ruby 1.0
+0
+7
+scala 5.0
+c 3.7.2
+python 2.1
+swift 3.7.2
+kotlin 3.0
+go 3.7.2
+dotnet 2.1.0
+1
+python 17.2
+8
+java 1.0
+go 1.2
+scala 3.0
+kotlin 2.2
+kotlin 3.0
+c 3.8.5
+dotnet 1.1.0
+ruby 1.1.1
+6
+typescript 10.0
+kotlin 2.1.0
+php 1.1.1
+ruby 3.2.0
+swift 3.7.2
+c 7.2
+5
+dotnet 3.0
+python 3.6.0
+jdk 10.0
+c++ 1.0
+jdk 9.3
+java 3.1
+10
+9
+typescript 2.1
+rust 2.1
+kotlin 1.0.0
+typescript 1.1.1
+java 14
+php 11.0.2
+ruby 1.1.0
+swift 1.2
+jdk 11.0.2
+0
+3
+php 15.0
+jdk 10.0
+scala 10.0
+1
+rust 14
+0
+8
+rust 7.2
+python 9.3
+c++ 11.0.2
+swift 1.0.0
+typescript 9.3
+c++ 1.1.0
+c++ 12
+kotlin 1.2.3
+10
+ruby 1.1.0
+kotlin 2.0
+rust 14
+python 8.0
+kotlin 3.1
+swift 3.0
+go 17.2
+swift 3.7.2
+ruby 11.0.2
+typescript 16.5
+0
+5
+typescript 5.0
+c++ 17.2
+jdk 3.8.5
+swift 2.1
+c 4.0
+3
+scala 1.1.1
+kotlin 1.0
+openssl 6.1.0
+9
+java 2.1.0
+perl 2.2
+kotlin 3.2.0
+openssl 12
+c 1.0
+rust 1.0
+php 3.8.5
+nodejs 7.2
+go 6.1.0
+java 13
+7
+1
+jdk 14
+0
+1
+java 2.1.0
+4
+java 10.0
+jdk 1.0.0
+nodejs 3.8.5
+openssl 6.1.0
+10
+php 3.0
+typescript 15.0
+scala 9.3
+typescript 3.7.2
+c++ 14
+jdk 14
+python 13
+c 2.1
+kotlin 3.2.0
+c++ 5.0
+2
+jdk 3.2.0
+rust 9.3
+9
+rust 12
+php 1.0
+openssl 4.0
+c++ 14
+typescript 1.0
+jdk 3.7.2
+perl 11.0.2
+typescript 11.0.2
+swift 2.1.0
+7
+perl 16.5
+kotlin 3.6.0
+ruby 3.6.0
+go 2.0
+openssl 12
+go 2.0
+jdk 9.3
+java 9.3
+0
+3
+java 5.0
+dotnet 1.0
+nodejs 1.1.1
+java 1.3
+10
+8
+rust 15.0
+nodejs 7.2
+swift 11
+rust 3.8.5
+nodejs 2.2
+php 9.3
+typescript 3.0
+rust 11
+6
+php 16.5
+typescript 3.8.5
+typescript 3.7.2
+java 9.3
+kotlin 3.7.2
+python 1.1.1
+2
+rust 2.0
+scala 17.2
+4
+nodejs 3.8.5
+go 3.1
+perl 1.1.1
+c 2.1.0
+8
+kotlin 13
+dotnet 10.0
+python 12
+kotlin 2.9.1
+ruby 14
+ruby 3.2.0
+openssl 6.1.0
+kotlin 2.1.0
+7
+java 13
+python 17.2
+python 1.0
+perl 6.1.0
+openssl 3.2.0
+swift 16.5
+nodejs 1.1.1
+6
+c 1.1
+nodejs 14
+python 2.1
+perl 2.1.0
+perl 7.2
+c 10.0
+3
+php 17.2
+kotlin 17.2
+perl 2.2
+2
+php 16.5
+jdk 11
+2
+java 15.0
+jdk 1.0.0
+8
+go 3.7.2
+kotlin 1.2.3
+c++ 1.3
+kotlin 5.0
+perl 13
+c++ 10.0
+rust 1.3
+java 9.3
+java 3.7.2
+10
+10
+python 1.1
+nodejs 1.2
+typescript 3.1
+perl 1.2.3
+java 8.0
+c 3.2.0
+typescript 3.7.2
+c++ 16.5
+swift 15.0
+nodejs 10.0
+2
+php 6.1.0
+openssl 2.1.0
+2
+dotnet 13
+jdk 1.0.0
+4
+c 2.9.1
+jdk 8.0
+perl 3.0
+python 13
+7
+c++ 17.2
+php 2.1.0
+rust 1.0
+dotnet 16.5
+swift 3.2.0
+swift 12
+scala 1.1.1
+3
+nodejs 3.8.5
+perl 11
+php 3.0
+5
+typescript 11.0.2
+ruby 1.3
+php 8.0
+c 16.5
+php 8.0
+4
+scala 2.9.1
+swift 1.3
+openssl 16.5
+c 11
+1
+go 1.2.3
+9
+c++ 2.1
+php 1.2.3
+c++ 16.5
+ruby 1.0
+java 17.2
+dotnet 1.2
+scala 8.0
+swift 1.0
+perl 3.8.5
+10
+nodejs 1.2
+php 1.0.0
+typescript 3.0
+typescript 3.0
+python 11.0.2
+openssl 14
+php 1.2
+java 1.1.0
+swift 3.7.2
+jdk 2.2
+typescript 1.1.0
+4
+9
+typescript 1.0
+openssl 3.7.2
+swift 17.2
+swift 9.3
+perl 5.0
+dotnet 3.0
+swift 11
+go 3.1
+openssl 10.0
+7
+java 3.6.0
+typescript 3.2.0
+c 2.9.1
+rust 1.1.1
+nodejs 8.0
+c 16.5
+perl 2.1
+6
+jdk 15.0
+python 1.2
+dotnet 7.2
+c++ 2.0
+typescript 3.7.2
+go 3.2.0
+3
+nodejs 10.0
+php 1.3
+c++ 11.0.2
+5
+c++ 4.0
+kotlin 9.3
+ruby 2.1.0
+typescript 11.0.2
+typescript 1.1
+typescript 3.0
+5
+7
+openssl 3.8.5
+go 1.0
+go 11.0.2
+jdk 3.6.0
+perl 1.1.1
+openssl 1.1
+ruby 16.5
+0
+7
+php 14
+dotnet 3.6.0
+perl 3.1
+python 1.3
+nodejs 12
+typescript 11
+typescript 13
+3
+python 13
+typescript 3.1
+go 3.6.0
+5
+python 1.2
+java 3.2.0
+dotnet 1.3
+python 1.2
+php 16.5
+3
+ruby 3.8.5
+nodejs 2.1.0
+go 16.5
+typescript 1.1.1
+3
+5
+ruby 11
+go 11.0.2
+java 3.8.5
+jdk 1.0
+scala 8.0
+9
+swift 15.0
+c++ 1.0.0
+kotlin 3.0
+php 9.3
+typescript 16.5
+kotlin 11.0.2
+ruby 7.2
+python 6.1.0
+scala 3.2.0
+9
+c++ 1.1.0
+go 3.7.2
+swift 12
+scala 6.1.0
+rust 3.8.5
+go 15.0
+kotlin 1.1.1
+rust 2.1.0
+php 1.0.0
+6
+typescript 1.1.0
+java 3.7.2
+swift 6.1.0
+scala 6.1.0
+c++ 15.0
+c++ 5.0
+typescript 4.0
+0
+10
+scala 15.0
+scala 16.5
+rust 11.0.2
+ruby 14
+java 2.0
+php 3.0
+openssl 12
+c 3.0
+openssl 1.2
+python 1.1.1
+typescript 11.0.2
+3
+8
+dotnet 6.1.0
+go 17.2
+go 12
+swift 10.0
+java 14
+go 13
+c 1.1.1
+openssl 3.0
+9
+ruby 17.2
+ruby 17.2
+ruby 10.0
+openssl 5.0
+ruby 3.1
+jdk 11.0.2
+typescript 15.0
+swift 3.1
+openssl 3.0
+2
+nodejs 8.0
+swift 2.0
+9
+dotnet 6.1.0
+openssl 2.9.1
+ruby 1.1.0
+nodejs 6.1.0
+c 3.7.2
+nodejs 2.1.0
+php 7.2
+rust 14
+perl 2.2
+typescript 2.0
+4
+8
+swift 2.2
+c 1.2
+java 2.2
+kotlin 10.0
+swift 2.2
+java 6.1.0
+php 12
+swift 2.0
+10
+openssl 17.2
+ruby 1.1.1
+dotnet 2.1
+openssl 2.1.0
+dotnet 7.2
+kotlin 12
+typescript 1.0.0
+php 14
+dotnet 11
+nodejs 3.2.0
+6
+c 13
+php 1.1
+typescript 1.1.1
+perl 11
+nodejs 13
+swift 1.2.3
+10
+go 11
+swift 11
+scala 1.2.3
+rust 1.2
+kotlin 14
+jdk 9.3
+kotlin 3.6.0
+rust 5.0
+python 12
+go 3.8.5
+10
+perl 2.2
+c++ 9.3
+php 1.1.0
+jdk 3.1
+kotlin 1.1
+python 3.7.2
+dotnet 15.0
+c 7.2
+c++ 1.0.0
+c 15.0
+typescript 1.3
+5
+3
+swift 6.1.0
+java 1.2
+c++ 2.1.0
+3
+dotnet 7.2
+nodejs 3.6.0
+jdk 1.3
+8
+nodejs 3.2.0
+typescript 2.0
+nodejs 2.0
+rust 1.1.1
+go 17.2
+kotlin 5.0
+c++ 11.0.2
+php 9.3
+5
+nodejs 17.2
+scala 13
+c++ 3.6.0
+jdk 3.7.2
+kotlin 4.0
+5
+go 1.1
+c++ 1.1.1
+typescript 2.1.0
+jdk 3.8.5
+php 10.0
+4
+java 2.1
+jdk 2.9.1
+jdk 2.1.0
+python 12
+typescript 1.2
+5
+2
+dotnet 2.2
+nodejs 2.0
+8
+dotnet 16.5
+jdk 13
+ruby 3.0
+java 12
+jdk 1.1.1
+java 7.2
+python 1.0
+dotnet 9.3
+2
+perl 11.0.2
+perl 3.7.2
+2
+rust 2.2
+scala 17.2
+6
+perl 1.2.3
+c++ 3.8.5
+swift 3.2.0
+c++ 2.1.0
+python 3.0
+nodejs 16.5
+9
+c 16.5
+perl 3.1
+perl 2.1
+c 3.0
+php 2.9.1
+python 1.2
+dotnet 10.0
+c 16.5
+ruby 1.2
+typescript 7.2
+8
+3
+go 1.3
+openssl 4.0
+c 2.9.1
+2
+perl 12
+go 1.2
+2
+kotlin 10.0
+nodejs 1.1.0
+10
+dotnet 1.2.3
+ruby 1.1.1
+ruby 3.6.0
+c++ 3.7.2
+perl 12
+typescript 2.0
+jdk 2.2
+perl 7.2
+scala 6.1.0
+go 1.2.3
+2
+typescript 1.1
+openssl 1.1.0
+5
+ruby 1.2.3
+kotlin 1.1
+go 11
+c 17.2
+php 11
+6
+php 3.1
+perl 11.0.2
+ruby 3.6.0
+go 3.2.0
+nodejs 1.1.1
+php 1.1
+8
+dotnet 17.2
+kotlin 5.0
+swift 17.2
+ruby 16.5
+go 12
+jdk 16.5
+kotlin 15.0
+rust 13
+7
+scala 7.2
+c 1.3
+php 15.0
+scala 2.1
+php 11
+c++ 1.0.0
+scala 3.2.0
+typescript 3.8.5
+8
+2
+kotlin 1.0.0
+nodejs 1.2.3
+9
+c 3.8.5
+rust 15.0
+swift 4.0
+kotlin 2.1
+ruby 6.1.0
+dotnet 5.0
+jdk 7.2
+scala 3.8.5
+scala 3.7.2
+5
+swift 3.8.5
+ruby 3.6.0
+perl 1.0.0
+java 2.1
+nodejs 6.1.0
+1
+c 1.0
+1
+perl 1.3
+4
+scala 3.8.5
+jdk 10.0
+typescript 8.0
+nodejs 5.0
+9
+kotlin 2.9.1
+jdk 2.1.0
+scala 3.0
+swift 12
+typescript 2.2
+openssl 8.0
+java 2.9.1
+dotnet 3.8.5
+openssl 1.2.3
+10
+ruby 1.1.1
+java 3.7.2
+scala 1.1.1
+python 3.1
+python 16.5
+typescript 1.3
+kotlin 12
+typescript 3.6.0
+dotnet 1.2
+scala 2.1
+9
+scala 2.9.1
+rust 12
+dotnet 4.0
+c 4.0
+perl 5.0
+python 16.5
+c++ 13
+go 17.2
+ruby 1.1.1
+typescript 1.0.0
+2
+6
+go 3.7.2
+php 2.1
+python 3.2.0
+openssl 3.2.0
+typescript 2.2
+nodejs 1.1.0
+7
+python 10.0
+java 1.1.0
+dotnet 3.7.2
+c 14
+perl 11
+rust 2.9.1
+java 1.2
+7
+jdk 17.2
+ruby 7.2
+perl 1.1.1
+typescript 2.9.1
+java 3.2.0
+typescript 1.0
+python 3.7.2
+typescript 16.5
+2
+6
+nodejs 5.0
+openssl 1.2.3
+c 1.0
+openssl 1.0
+rust 3.7.2
+jdk 14
+10
+rust 2.2
+rust 15.0
+swift 7.2
+jdk 2.2
+php 7.2
+nodejs 1.1.0
+python 11
+c++ 15.0
+typescript 6.1.0
+dotnet 3.0
+1
+php 3.8.5
+typescript 3.2.0
+6
+10
+php 14
+java 2.0
+perl 14
+typescript 3.2.0
+php 15.0
+java 3.7.2
+nodejs 1.2
+rust 3.6.0
+openssl 1.1.0
+c 15.0
+8
+jdk 3.2.0
+python 11
+swift 9.3
+c++ 2.1.0
+openssl 3.8.5
+ruby 3.6.0
+scala 3.6.0
+openssl 1.3
+9
+java 5.0
+go 9.3
+java 1.2
+typescript 15.0
+go 2.1.0
+swift 1.3
+c 5.0
+go 1.0
+swift 1.0.0
+3
+ruby 1.1.0
+jdk 11.0.2
+openssl 13
+8
+nodejs 1.2.3
+kotlin 3.1
+ruby 5.0
+dotnet 11
+scala 7.2
+python 5.0
+dotnet 6.1.0
+typescript 1.1.0
+7
+dotnet 1.3
+c++ 13
+typescript 17.2
+swift 1.2
+c 11
+scala 9.3
+nodejs 8.0
+9
+rust 1.2.3
+nodejs 10.0
+perl 14
+openssl 12
+java 3.6.0
+perl 12
+python 1.2
+dotnet 12
+jdk 10.0
+typescript 1.2.3
+0
+8
+kotlin 11
+rust 1.2
+go 17.2
+swift 7.2
+perl 3.1
+ruby 12
+ruby 2.9.1
+c 8.0
+typescript 1.0
+8
+4
+c++ 3.7.2
+kotlin 12
+jdk 2.2
+swift 2.1
+0
+1
+kotlin 2.9.1
+7
+openssl 1.1.0
+kotlin 3.6.0
+perl 1.0.0
+php 2.0
+rust 11
+c 1.0
+c++ 3.0
+5
+dotnet 14
+kotlin 9.3
+dotnet 13
+perl 15.0
+rust 1.1.1
+3
+c 17.2
+php 11
+kotlin 13
+6
+rust 1.3
+python 1.0
+ruby 14
+scala 3.2.0
+java 14
+perl 11.0.2
+9
+typescript 8.0
+openssl 11.0.2
+go 11.0.2
+typescript 1.1
+c 3.8.5
+c 11
+rust 14
+swift 11
+openssl 4.0
+10
+php 2.2
+c 2.1
+dotnet 1.0
+dotnet 2.2
+c 3.1
+perl 17.2
+perl 1.1.1
+rust 2.1
+typescript 3.7.2
+c 2.0
+openssl 7.2
+1
+7
+ruby 11.0.2
+go 3.8.5
+php 2.0
+perl 15.0
+python 2.2
+php 16.5
+scala 16.5
+8
+perl 1.3
+java 2.0
+kotlin 2.1
+swift 3.1
+openssl 1.2
+python 1.1.0
+kotlin 3.0
+c 5.0
+openssl 1.1
+0
+10
+kotlin 10.0
+swift 3.2.0
+php 2.9.1
+scala 1.2.3
+swift 16.5
+typescript 3.0
+python 3.2.0
+scala 12
+go 1.2.3
+php 1.1
+openssl 3.1
+3
+9
+c 4.0
+php 2.9.1
+c 2.1.0
+go 7.2
+dotnet 17.2
+ruby 1.1
+nodejs 10.0
+scala 14
+jdk 1.1
+8
+python 3.2.0
+c 14
+kotlin 2.1
+python 14
+java 1.2.3
+java 16.5
+swift 15.0
+rust 1.1.0
+1
+php 3.0
+9
+python 1.1.1
+kotlin 14
+ruby 15.0
+php 11
+swift 1.2.3
+kotlin 9.3
+c++ 3.1
+jdk 3.0
+rust 8.0
+openssl 3.0
+6
+4
+python 1.1
+swift 15.0
+perl 15.0
+rust 1.2
+0
+3
+ruby 1.1.0
+typescript 9.3
+openssl 1.2.3
+9
+php 2.1
+php 11
+scala 6.1.0
+c 3.6.0
+rust 12
+python 11.0.2
+go 12
+ruby 1.3
+openssl 2.1.0
+8
+c++ 15.0
+openssl 1.0.0
+typescript 2.0
+ruby 7.2
+scala 2.2
+c 1.1
+c 1.2
+php 1.2
+2
+php 11.0.2
+dotnet 2.0
+1
+perl 1.0.0
+openssl 11.0.2
+6
+0
+6
+nodejs 1.0.0
+jdk 2.1
+c++ 3.2.0
+java 3.7.2
+kotlin 14
+python 12
+3
+scala 1.0
+go 6.1.0
+php 17.2
+8
+jdk 3.0
+perl 6.1.0
+scala 5.0
+go 3.7.2
+dotnet 1.0.0
+perl 3.0
+c 2.1.0
+jdk 9.3
+1
+ruby 3.0
+3
+ruby 1.1.0
+swift 3.0
+go 3.6.0
+2
+c 1.2.3
+scala 1.2
+openssl 4.0
+6
+10
+c 3.7.2
+php 14
+c 11.0.2
+perl 8.0
+dotnet 2.9.1
+perl 1.2
+python 1.1.0
+perl 11.0.2
+ruby 2.9.1
+c 13
+5
+scala 1.1
+c 3.6.0
+php 1.2.3
+perl 1.1.0
+python 6.1.0
+2
+ruby 11.0.2
+swift 2.2
+8
+jdk 3.0
+perl 4.0
+c++ 6.1.0
+perl 12
+php 11.0.2
+php 2.1.0
+scala 1.2.3
+jdk 16.5
+5
+java 15.0
+kotlin 1.2
+scala 1.1.0
+swift 2.1.0
+kotlin 17.2
+9
+go 4.0
+kotlin 1.0
+python 3.2.0
+kotlin 9.3
+openssl 6.1.0
+scala 11.0.2
+c++ 1.1
+swift 16.5
+java 3.7.2
+2
+typescript 2.9.1
+typescript 1.3
+openssl 9.3
+1
+10
+perl 17.2
+openssl 10.0
+scala 5.0
+java 12
+perl 1.1
+openssl 2.0
+swift 2.2
+swift 2.1.0
+dotnet 1.2.3
+jdk 8.0
+10
+nodejs 3.2.0
+swift 17.2
+c 17.2
+ruby 1.0.0
+nodejs 3.0
+java 1.2.3
+kotlin 1.0.0
+go 1.3
+go 8.0
+typescript 3.0
+openssl 3.8.5
+10
+8
+nodejs 3.0
+scala 1.0
+swift 3.7.2
+rust 2.1
+jdk 8.0
+go 1.1
+nodejs 12
+php 3.8.5
+10
+c 11.0.2
+rust 3.1
+python 2.0
+c 11
+php 11
+go 1.1
+perl 15.0
+ruby 3.8.5
+kotlin 3.1
+openssl 2.0
+1
+c++ 5.0
+3
+python 3.6.0
+php 2.2
+perl 3.6.0
+8
+python 3.8.5
+swift 12
+java 16.5
+java 1.3
+rust 14
+kotlin 3.8.5
+rust 13
+php 1.3
+6
+python 3.7.2
+go 3.6.0
+php 11
+openssl 2.1.0
+ruby 1.1.0
+java 9.3
+0
+8
+perl 2.0
+java 5.0
+swift 3.7.2
+typescript 7.2
+go 1.0
+kotlin 6.1.0
+typescript 2.1
+typescript 15.0
+2
+c++ 1.3
+c 7.2
+7
+kotlin 3.7.2
+go 11
+php 4.0
+ruby 17.2
+go 1.2.3
+ruby 2.2
+dotnet 13
+6
+c 12
+rust 1.1.0
+java 3.8.5
+c++ 1.0
+go 8.0
+scala 3.8.5
+openssl 1.2
+6
+6
+jdk 3.1
+kotlin 11
+kotlin 1.0.0
+c++ 1.0.0
+swift 2.2
+jdk 2.1
+10
+typescript 4.0
+java 8.0
+swift 2.1.0
+scala 2.2
+c 14
+rust 3.7.2
+ruby 7.2
+python 1.1.1
+openssl 3.7.2
+kotlin 3.0
+7
+java 9.3
+kotlin 1.2.3
+java 14
+kotlin 3.7.2
+go 11
+typescript 3.0
+perl 11.0.2
+3
+scala 1.2
+swift 1.1.0
+scala 17.2
+1
+ruby 3.8.5
+3
+java 6.1.0
+jdk 3.6.0
+java 2.1.0
+9
+nodejs 1.2.3
+go 16.5
+dotnet 9.3
+rust 15.0
+perl 11.0.2
+ruby 2.1.0
+c 3.2.0
+ruby 3.6.0
+rust 3.8.5
+openssl 14
+8
+1
+c 1.2.3
+0
+9
+kotlin 3.7.2
+nodejs 1.0
+dotnet 3.8.5
+dotnet 12
+swift 3.1
+php 1.1.1
+ruby 7.2
+jdk 11
+swift 8.0
+7
+kotlin 17.2
+c 2.1.0
+perl 1.2
+c 2.1.0
+kotlin 1.0.0
+swift 14
+c 4.0
+1
+jdk 3.0
+10
+php 1.3
+openssl 1.1.1
+ruby 7.2
+rust 1.0
+scala 3.7.2
+openssl 5.0
+scala 4.0
+swift 2.0
+openssl 9.3
+perl 2.2
+10
+perl 2.0
+kotlin 17.2
+scala 3.7.2
+rust 2.0
+ruby 14
+swift 3.6.0
+kotlin 9.3
+c 3.0
+java 1.3
+rust 2.2
+0
+7
+c++ 1.2.3
+python 9.3
+kotlin 5.0
+perl 9.3
+typescript 17.2
+c 2.9.1
+openssl 6.1.0
+c++ 3.6.0
+2
+0
+10
+swift 6.1.0
+python 15.0
+typescript 1.1.0
+dotnet 3.6.0
+python 2.0
+dotnet 13
+typescript 11.0.2
+java 1.2
+scala 6.1.0
+kotlin 3.6.0
+3
+swift 2.0
+rust 7.2
+python 12
+c++ 2.0
+6
+10
+scala 1.3
+c 17.2
+c 3.8.5
+openssl 8.0
+java 16.5
+ruby 5.0
+ruby 2.0
+kotlin 8.0
+python 8.0
+java 1.1.1
+6
+python 3.0
+python 1.1.1
+nodejs 10.0
+java 5.0
+php 5.0
+java 17.2
+5
+openssl 5.0
+jdk 1.1.1
+perl 9.3
+php 1.2
+typescript 1.0.0
+6
+typescript 9.3
+jdk 2.1
+typescript 2.9.1
+rust 6.1.0
+java 15.0
+nodejs 17.2
+7
+dotnet 3.8.5
+dotnet 2.1
+python 2.1.0
+java 10.0
+php 1.3
+openssl 15.0
+c 3.0
+8
+swift 3.1
+php 3.0
+typescript 3.2.0
+kotlin 4.0
+java 2.1.0
+c++ 16.5
+ruby 1.0.0
+java 2.1
+0
+c++ 1.0.0
+8
+2
+scala 1.1
+java 1.1
+8
+ruby 1.1
+python 12
+nodejs 3.2.0
+dotnet 3.7.2
+ruby 1.3
+java 3.0
+dotnet 3.8.5
+go 2.1
+2
+python 5.0
+kotlin 4.0
+4
+kotlin 1.2
+typescript 8.0
+c 3.6.0
+go 1.2
+2
+rust 2.1.0
+java 12
+1
+php 3.8.5
+7
+c 1.0.0
+dotnet 2.0
+typescript 17.2
+c++ 11
+php 1.2
+rust 10.0
+php 2.2
+1
+c 9.3
+1
+swift 2.0
+c++ 7.2
+3
+1
+kotlin 3.2.0
+0
+2
+swift 2.2
+scala 1.1.0
+2
+c 3.2.0
+dotnet 14
+c++ 1.1
+8
+6
+c++ 2.2
+c 11
+jdk 10.0
+python 15.0
+c++ 1.2
+dotnet 2.1.0
+8
+nodejs 3.2.0
+nodejs 3.0
+kotlin 12
+ruby 6.1.0
+scala 1.0.0
+python 3.6.0
+perl 10.0
+typescript 9.3
+0
+8
+ruby 1.3
+python 1.1.0
+java 1.1.1
+jdk 1.3
+perl 11
+python 5.0
+nodejs 2.1.0
+typescript 1.0.0
+2
+c 9.3
+c 1.1.1
+8
+scala 4.0
+dotnet 1.2
+kotlin 2.9.1
+perl 11.0.2
+php 13
+c 3.0
+go 6.1.0
+php 2.1
+4
+openssl 11
+swift 10.0
+perl 1.0.0
+java 2.2
+1
+go 2.1.0
+10
+php 3.0
+java 4.0
+php 10.0
+dotnet 9.3
+go 14
+swift 2.0
+c 1.0
+rust 12
+dotnet 6.1.0
+typescript 15.0
+c++ 8.0
+2
+1
+rust 3.2.0
+4
+jdk 10.0
+kotlin 1.1
+perl 2.0
+rust 11
+10
+scala 9.3
+c++ 2.9.1
+c 3.8.5
+ruby 1.2
+rust 16.5
+kotlin 8.0
+ruby 8.0
+ruby 3.7.2
+ruby 12
+java 3.8.5
+c++ 11
+3
+3
+c++ 1.1.0
+dotnet 2.9.1
+nodejs 1.1.0
+0
+5
+python 1.3
+perl 8.0
+ruby 11
+go 1.3
+rust 3.6.0
+10
+python 5.0
+ruby 5.0
+nodejs 4.0
+c++ 8.0
+kotlin 1.2
+c 3.8.5
+python 10.0
+c 1.3
+scala 1.1.1
+php 2.2
+c++ 9.3
+4
+2
+php 3.1
+c++ 3.2.0
+6
+go 1.0.0
+perl 2.1
+swift 1.1
+perl 2.2
+c 14
+swift 3.7.2
+7
+c++ 3.7.2
+swift 6.1.0
+nodejs 1.0.0
+go 2.2
+perl 1.2.3
+scala 3.1
+nodejs 2.1
+3
+python 3.0
+java 1.0.0
+kotlin 9.3
+8
+java 11
+rust 2.9.1
+c 10.0
+openssl 1.1
+go 7.2
+c 17.2
+rust 3.7.2
+openssl 3.1
+c++ 14
+7
+9
+go 1.1.1
+typescript 1.3
+openssl 2.1
+rust 17.2
+go 5.0
+kotlin 4.0
+typescript 11
+nodejs 2.1.0
+c++ 2.9.1
+1
+typescript 1.1.1
+4
+dotnet 3.8.5
+openssl 16.5
+php 1.0.0
+c++ 3.6.0
+3
+go 1.2.3
+scala 3.0
+rust 4.0
+3
+go 1.0
+c 2.9.1
+swift 4.0
+9
+swift 8.0
+go 3.8.5
+kotlin 13
+rust 2.1
+kotlin 3.0
+rust 9.3
+c 1.0
+swift 1.1.0
+rust 11
+9
+rust 1.2
+c 3.7.2
+python 3.1
+java 15.0
+swift 1.2.3
+swift 7.2
+c 14
+rust 2.2
+rust 7.2
+3
+php 11
+kotlin 1.0.0
+swift 2.0
+c++ 16.5
+7
+6
+scala 2.9.1
+kotlin 3.7.2
+python 2.2
+nodejs 4.0
+rust 9.3
+openssl 1.3
+2
+jdk 11.0.2
+scala 6.1.0
+10
+dotnet 8.0
+swift 2.2
+jdk 1.2.3
+ruby 1.0
+openssl 1.1
+perl 11.0.2
+ruby 7.2
+python 1.0.0
+java 13
+perl 11.0.2
+10
+dotnet 10.0
+c 10.0
+jdk 1.2
+swift 6.1.0
+c 8.0
+c++ 2.1
+nodejs 1.0.0
+dotnet 10.0
+perl 8.0
+python 1.2
+2
+kotlin 3.2.0
+dotnet 3.0
+1
+dotnet 3.2.0
+10
+swift 16.5
+perl 3.8.5
+ruby 9.3
+ruby 1.2.3
+openssl 3.7.2
+nodejs 2.0
+perl 3.2.0
+nodejs 1.0
+c 15.0
+jdk 8.0
+7
+openssl 3.6.0
+rust 1.3
+typescript 2.2
+scala 1.1.1
+python 14
+perl 1.1.1
+openssl 3.8.5
+c++ 2.9.1
+0
+1
+java 16.5
+c++ 3.2.0
+2
+10
+python 2.1.0
+java 2.1
+scala 6.1.0
+ruby 1.2.3
+nodejs 2.9.1
+c++ 6.1.0
+kotlin 5.0
+c 1.1.0
+nodejs 11.0.2
+dotnet 11
+9
+nodejs 9.3
+kotlin 1.1.1
+java 13
+php 1.1.1
+go 12
+ruby 1.1.1
+nodejs 9.3
+ruby 3.1
+java 16.5
+3
+nodejs 3.2.0
+swift 3.1
+kotlin 1.1.1
+c++ 12
+6
+3
+dotnet 3.7.2
+dotnet 16.5
+c++ 15.0
+9
+java 17.2
+java 2.1
+jdk 1.1.0
+c 3.7.2
+perl 1.2
+typescript 11
+nodejs 3.1
+php 12
+jdk 3.2.0
+1
+python 1.0
+10
+typescript 1.0.0
+c++ 15.0
+go 3.0
+nodejs 1.1
+dotnet 3.2.0
+swift 2.1.0
+rust 2.9.1
+kotlin 3.2.0
+rust 3.2.0
+nodejs 2.0
+2
+kotlin 9.3
+typescript 1.1.0
+6
+java 8.0
+c++ 15.0
+openssl 1.1.1
+dotnet 4.0
+scala 17.2
+typescript 17.2
+4
+c 1.1.0
+c 16.5
+openssl 12
+java 2.0
+c++ 10.0
+8
+7
+c 1.2.3
+nodejs 4.0
+c++ 2.2
+kotlin 16.5
+nodejs 2.0
+ruby 3.8.5
+java 3.2.0
+3
+kotlin 1.2
+nodejs 1.1
+python 11
+6
+perl 1.2
+swift 5.0
+c 1.2
+typescript 15.0
+openssl 13
+rust 5.0
+6
+swift 1.1.1
+perl 1.1.0
+dotnet 1.2.3
+php 3.1
+php 1.0.0
+java 1.0.0
+5
+scala 2.0
+php 3.1
+php 3.2.0
+java 1.1.1
+rust 1.2
+6
+scala 3.6.0
+kotlin 1.0.0
+typescript 1.2
+c 2.1.0
+c++ 2.0
+swift 3.2.0
+7
+java 6.1.0
+kotlin 10.0
+ruby 3.2.0
+nodejs 4.0
+jdk 3.0
+c 2.9.1
+kotlin 9.3
+9
+jdk 3.6.0
+openssl 1.2
+kotlin 3.0
+jdk 1.2
+java 10.0
+nodejs 1.2
+swift 2.1.0
+typescript 3.1
+go 1.0
+2
+nodejs 2.2
+perl 13
+php 12
+0
+9
+typescript 1.0
+java 3.1
+kotlin 7.2
+go 2.2
+jdk 2.1.0
+rust 2.2
+ruby 1.2
+c 3.7.2
+c++ 3.2.0
+php 1.3
+5
+7
+perl 1.0.0
+scala 1.1
+c++ 2.9.1
+openssl 6.1.0
+typescript 3.6.0
+rust 14
+java 14
+1
+rust 13
+6
+openssl 10.0
+openssl 1.2
+python 2.1
+rust 3.0
+openssl 14
+typescript 3.7.2
+1
+python 15.0
+7
+python 3.8.5
+rust 3.1
+nodejs 17.2
+openssl 3.1
+go 1.1.0
+perl 3.1
+perl 13
+0
+php 11
+10
+6
+swift 13
+c++ 5.0
+go 6.1.0
+dotnet 3.1
+nodejs 1.3
+java 1.2.3
+0
+0
+7
+typescript 2.9.1
+go 13
+openssl 1.2
+kotlin 14
+java 12
+nodejs 1.0.0
+scala 1.1.0
+7
+python 8.0
+java 2.1
+scala 3.6.0
+rust 2.1.0
+swift 6.1.0
+java 3.6.0
+rust 1.1.1
+10
+rust 4.0
+php 2.1.0
+dotnet 2.2
+perl 1.0.0
+c 3.1
+dotnet 6.1.0
+java 3.8.5
+c 5.0
+openssl 2.2
+java 1.1
+9
+java 9.3
+java 13
+scala 1.1.0
+jdk 1.1.1
+python 2.2
+nodejs 1.2
+java 3.2.0
+nodejs 1.1
+kotlin 8.0
+2
+scala 2.1
+typescript 17.2
+4
+scala 11
+perl 1.0
+swift 4.0
+php 5.0
+7
+dotnet 3.0
+java 2.9.1
+nodejs 6.1.0
+jdk 3.0
+python 2.0
+dotnet 10.0
+openssl 17.2
+0
+php 1.1.0
+8
+9
+ruby 1.1
+rust 2.0
+kotlin 3.0
+nodejs 1.3
+nodejs 1.2.3
+kotlin 2.0
+ruby 11.0.2
+nodejs 10.0
+java 1.2
+7
+dotnet 3.1
+rust 2.0
+ruby 1.1
+go 9.3
+c 2.0
+nodejs 10.0
+c 10.0
+4
+swift 7.2
+c++ 5.0
+swift 1.1.0
+c++ 1.2.3
+0
+5
+perl 1.1
+openssl 11
+typescript 2.2
+nodejs 2.9.1
+c++ 2.1
+6
+c 4.0
+php 10.0
+swift 3.7.2
+openssl 1.2
+python 3.6.0
+c++ 3.8.5
+8
+jdk 16.5
+swift 8.0
+typescript 11
+typescript 11
+typescript 16.5
+dotnet 1.2
+java 6.1.0
+perl 3.8.5
+4
+c 2.1
+dotnet 8.0
+ruby 16.5
+nodejs 7.2
+4
+nodejs 3.8.5
+perl 3.2.0
+swift 2.0
+c++ 11.0.2
+php 1.2.3
+1
+0
+10
+php 2.2
+python 12
+ruby 2.0
+java 2.0
+ruby 5.0
+c++ 9.3
+nodejs 16.5
+perl 10.0
+kotlin 2.0
+openssl 14
+php 6.1.0
+8
+0
+9
+perl 1.1
+c 4.0
+java 11.0.2
+typescript 3.6.0
+php 2.1.0
+nodejs 3.0
+java 11
+kotlin 13
+typescript 11
+5
+python 3.1
+kotlin 4.0
+go 1.0.0
+kotlin 1.1
+kotlin 2.0
+0
+9
+nodejs 3.1
+scala 7.2
+kotlin 8.0
+go 3.0
+scala 2.1.0
+nodejs 1.2
+c 2.9.1
+scala 2.9.1
+kotlin 16.5
+10
+perl 14
+c 1.1.0
+rust 1.1.1
+php 3.7.2
+ruby 1.2
+python 2.9.1
+swift 12
+c++ 1.0
+nodejs 17.2
+kotlin 3.7.2
+3
+swift 1.1.0
+scala 9.3
+java 5.0
+3
+python 1.1.0
+dotnet 8.0
+rust 15.0
+6
+python 11
+c++ 7.2
+java 3.6.0
+c++ 1.0
+swift 3.7.2
+swift 9.3
+php 16.5
+6
+5
+rust 4.0
+typescript 11.0.2
+scala 1.2
+jdk 1.3
+dotnet 4.0
+2
+java 3.7.2
+perl 1.1.1
+7
+nodejs 3.8.5
+c++ 13
+perl 14
+c 11
+java 4.0
+rust 1.1.1
+php 11.0.2
+8
+rust 16.5
+kotlin 1.2.3
+typescript 2.1
+jdk 3.2.0
+scala 8.0
+dotnet 3.0
+ruby 3.2.0
+dotnet 1.0
+8
+c++ 2.9.1
+typescript 3.8.5
+perl 11.0.2
+nodejs 3.8.5
+kotlin 2.0
+dotnet 15.0
+perl 6.1.0
+rust 1.1.0
+4
+nodejs 7.2
+kotlin 4.0
+java 6.1.0
+c++ 3.1
+0
+php 3.6.0
+3
+7
+ruby 2.9.1
+perl 2.1.0
+rust 10.0
+ruby 10.0
+java 2.9.1
+go 3.1
+python 1.1
+5
+typescript 1.1.0
+rust 16.5
+scala 12
+scala 1.0
+c 3.6.0
+2
+typescript 3.2.0
+swift 2.2
+3
+php 8.0
+jdk 11.0.2
+php 1.1
+php 2.0
+6
+6
+python 1.0
+rust 9.3
+go 15.0
+swift 2.1.0
+python 5.0
+nodejs 16.5
+0
+8
+go 1.1.1
+c 17.2
+php 3.1
+jdk 13
+typescript 9.3
+go 11.0.2
+go 1.2.3
+python 16.5
+9
+php 15.0
+dotnet 1.0.0
+scala 1.1
+perl 3.2.0
+dotnet 12
+typescript 3.7.2
+go 1.1.1
+swift 3.1
+dotnet 3.0
+10
+kotlin 3.6.0
+go 1.1.1
+openssl 1.0
+perl 3.8.5
+kotlin 3.0
+kotlin 3.2.0
+scala 3.2.0
+php 11
+ruby 1.2.3
+perl 11
+7
+c 4.0
+typescript 3.0
+rust 1.3
+python 7.2
+openssl 8.0
+dotnet 3.6.0
+nodejs 3.7.2
+5
+nodejs 13
+python 1.0.0
+scala 3.2.0
+c++ 12
+typescript 2.1.0
+php 11.0.2
+3
+8
+swift 6.1.0
+go 13
+jdk 13
+php 2.0
+python 6.1.0
+c 11
+rust 11
+go 10.0
+3
+perl 1.0.0
+jdk 8.0
+perl 9.3
+6
+python 1.1.1
+c 7.2
+ruby 2.1.0
+go 14
+dotnet 1.2
+typescript 2.2
+0
+go 3.7.2
+7
+5
+dotnet 3.2.0
+scala 3.1
+perl 3.0
+dotnet 1.3
+swift 3.8.5
+5
+openssl 8.0
+c++ 14
+openssl 5.0
+jdk 1.3
+rust 11.0.2
+6
+java 7.2
+scala 1.0
+nodejs 15.0
+openssl 3.7.2
+typescript 3.6.0
+c++ 3.0
+2
+c 1.0
+openssl 11.0.2
+9
+dotnet 14
+c++ 16.5
+dotnet 3.7.2
+scala 17.2
+rust 13
+c 2.1.0
+c++ 4.0
+ruby 12
+go 13
+8
+swift 11.0.2
+jdk 4.0
+dotnet 3.0
+c++ 12
+ruby 1.0.0
+ruby 3.7.2
+scala 1.3
+perl 4.0
+5
+java 7.2
+scala 1.1
+rust 5.0
+openssl 4.0
+python 3.1
+2
+rust 1.0
+jdk 3.6.0
+go 11.0.2
+3
+4
+kotlin 2.1
+swift 3.8.5
+scala 5.0
+java 2.1
+0
+7
+c++ 2.2
+go 15.0
+c 1.0.0
+typescript 2.0
+jdk 6.1.0
+java 14
+kotlin 3.6.0
+5
+scala 14
+perl 5.0
+nodejs 11
+typescript 1.0.0
+php 2.1
+go 4.0
+1
+1
+perl 4.0
+1
+python 2.2
+go 15.0
+9
+9
+go 1.2
+go 2.1.0
+ruby 1.1.0
+c 13
+go 17.2
+scala 17.2
+go 3.7.2
+perl 1.2
+typescript 3.1
+8
+python 10.0
+kotlin 2.1.0
+perl 1.1
+openssl 4.0
+typescript 3.8.5
+jdk 13
+python 3.0
+java 1.2
+3
+openssl 3.7.2
+go 14
+jdk 3.6.0
+5
+c++ 3.1
+php 5.0
+dotnet 1.3
+java 14
+c++ 1.2.3
+4
+openssl 2.0
+jdk 7.2
+nodejs 9.3
+c 10.0
+4
+jdk 13
+perl 8.0
+scala 3.8.5
+go 3.8.5
+9
+php 12
+typescript 2.2
+ruby 3.7.2
+python 1.0
+python 3.0
+go 11
+kotlin 4.0
+java 1.1
+rust 1.3
+10
+c++ 2.2
+openssl 13
+java 9.3
+swift 1.1.0
+rust 1.0
+scala 13
+perl 11.0.2
+ruby 11
+typescript 1.2
+python 9.3
+5
+scala 1.1
+jdk 4.0
+php 4.0
+php 17.2
+ruby 5.0
+9
+rust 10.0
+java 1.1.0
+go 1.1
+dotnet 1.0
+jdk 3.6.0
+dotnet 14
+python 4.0
+nodejs 3.1
+go 1.1.0
+go 2.1.0
+0
+7
+go 1.2.3
+php 2.2
+nodejs 4.0
+php 1.1.1
+python 4.0
+c 6.1.0
+c 13
+go 1.1.1
+9
+8
+java 3.6.0
+dotnet 5.0
+c++ 2.9.1
+jdk 11.0.2
+perl 1.3
+kotlin 3.2.0
+jdk 7.2
+jdk 11.0.2
+9
+python 3.7.2
+kotlin 10.0
+typescript 7.2
+python 1.0.0
+ruby 2.1
+scala 5.0
+kotlin 10.0
+dotnet 1.1
+jdk 2.1
+5
+kotlin 2.1.0
+perl 1.2
+c++ 1.2
+typescript 10.0
+rust 12
+9
+python 6.1.0
+swift 2.1.0
+java 16.5
+scala 1.0
+kotlin 15.0
+scala 3.2.0
+nodejs 3.8.5
+perl 8.0
+ruby 11.0.2
+4
+java 6.1.0
+kotlin 3.0
+dotnet 2.0
+ruby 2.2
+10
+kotlin 2.0
+nodejs 2.1.0
+rust 1.2.3
+kotlin 11.0.2
+php 13
+kotlin 3.2.0
+go 3.6.0
+typescript 8.0
+swift 3.7.2
+nodejs 13
+10
+scala 3.7.2
+scala 3.1
+rust 1.1
+perl 1.2
+openssl 16.5
+java 9.3
+typescript 12
+typescript 2.0
+go 11.0.2
+scala 3.7.2
+7
+nodejs 9.3
+kotlin 1.2.3
+php 3.1
+c 2.0
+jdk 3.7.2
+jdk 16.5
+python 3.1
+4
+scala 11
+kotlin 15.0
+c 2.1
+nodejs 3.6.0
+4
+dotnet 12
+swift 1.0
+nodejs 15.0
+typescript 2.0
+go 2.0
+9
+4
+rust 10.0
+c 3.7.2
+scala 7.2
+python 2.2
+8
+rust 7.2
+dotnet 3.2.0
+php 4.0
+swift 10.0
+rust 8.0
+scala 4.0
+openssl 1.2.3
+c 4.0
+2
+perl 2.9.1
+ruby 1.3
+3
+scala 3.1
+nodejs 3.7.2
+java 11
+5
+nodejs 11
+ruby 1.1
+php 14
+kotlin 3.0
+kotlin 2.0
+2
+go 3.6.0
+php 16.5
+2
+ruby 8.0
+ruby 8.0
+6
+jdk 1.0
+scala 1.0.0
+nodejs 2.9.1
+jdk 3.8.5
+rust 2.9.1
+scala 2.1
+4
+rust 13
+openssl 3.1
+perl 6.1.0
+php 3.8.5
+3
+c++ 1.0.0
+jdk 1.3
+go 17.2
+go 1.0.0
+10
+1
+nodejs 2.0
+2
+nodejs 10.0
+ruby 12
+2
+jdk 1.1
+python 9.3
+2
+python 3.0
+go 5.0
+3
+c++ 1.0.0
+php 1.0
+perl 13
+5
+python 1.1.1
+c 13
+openssl 2.0
+openssl 16.5
+php 3.2.0
+5
+perl 3.7.2
+java 3.6.0
+typescript 7.2
+scala 11.0.2
+c++ 3.7.2
+1
+go 1.1.0
+1
+perl 1.0
+0
+1
+swift 1.1.1
+go 1.3
+0
+6
+jdk 11
+go 15.0
+dotnet 3.2.0
+typescript 7.2
+php 3.7.2
+php 2.9.1
+go 7.2
+3
+10
+c 1.1.1
+nodejs 9.3
+ruby 1.2
+openssl 1.3
+go 16.5
+ruby 3.6.0
+rust 2.1.0
+c++ 1.2.3
+typescript 11.0.2
+typescript 13
+7
+ruby 1.1
+perl 8.0
+perl 1.0.0
+jdk 12
+openssl 11
+perl 2.1
+nodejs 3.2.0
+4
+c 11
+kotlin 14
+c 3.0
+java 3.0
+0
+go 5.0
+8
+6
+jdk 5.0
+nodejs 11
+c 1.0.0
+php 15.0
+jdk 3.0
+openssl 2.1.0
+4
+openssl 9.3
+kotlin 3.1
+typescript 3.2.0
+kotlin 1.0.0
+8
+php 7.2
+openssl 1.3
+perl 1.1.1
+swift 2.1
+ruby 15.0
+python 2.2
+jdk 10.0
+rust 6.1.0
+7
+rust 14
+swift 4.0
+java 17.2
+ruby 1.1
+rust 3.6.0
+ruby 1.2
+perl 9.3
+1
+nodejs 1.1.0
+9
+kotlin 4.0
+openssl 2.9.1
+python 1.2.3
+python 14
+openssl 3.1
+dotnet 5.0
+dotnet 7.2
+jdk 1.1.1
+perl 2.2
+1
+dotnet 15.0
+2
+swift 16.5
+go 14
+5
+ruby 14
+scala 9.3
+perl 9.3
+ruby 1.1.0
+java 1.0.0
+go 3.0
+4
+7
+php 3.0
+php 16.5
+go 9.3
+typescript 3.1
+scala 2.9.1
+nodejs 17.2
+php 12
+4
+kotlin 11.0.2
+openssl 9.3
+python 1.1.0
+openssl 1.1.0
+4
+c++ 9.3
+c++ 12
+php 1.0.0
+ruby 3.8.5
+9
+c 3.7.2
+ruby 16.5
+rust 11.0.2
+rust 7.2
+c++ 1.1.1
+perl 5.0
+jdk 17.2
+jdk 16.5
+scala 3.0
+5
+nodejs 1.3
+perl 4.0
+perl 9.3
+c++ 11.0.2
+c++ 1.1.0
+go 8.0
+4
+0
+5
+typescript 7.2
+rust 2.2
+ruby 6.1.0
+openssl 10.0
+ruby 17.2
+2
+swift 1.1
+ruby 14
+8
+c 11.0.2
+perl 1.3
+python 5.0
+c 1.3
+openssl 7.2
+openssl 14
+jdk 4.0
+c 8.0
+8
+c 7.2
+go 2.9.1
+openssl 6.1.0
+c++ 2.1
+rust 3.1
+openssl 1.1
+swift 8.0
+rust 1.0.0
+go 17.2
+4
+1
+java 13
+8
+c 7.2
+swift 5.0
+dotnet 14
+openssl 11.0.2
+c++ 3.1
+python 3.7.2
+scala 2.9.1
+swift 1.2
+4
+java 13
+perl 1.0.0
+kotlin 2.0
+python 3.6.0
+0
+10
+php 3.6.0
+typescript 3.8.5
+java 9.3
+rust 3.1
+python 5.0
+dotnet 15.0
+swift 1.0.0
+openssl 1.2.3
+c++ 11.0.2
+rust 11
+go 13
+1
+10
+ruby 3.0
+swift 2.9.1
+scala 5.0
+c 13
+ruby 1.2.3
+c++ 3.8.5
+kotlin 3.8.5
+scala 11
+scala 6.1.0
+php 6.1.0
+9
+dotnet 17.2
+kotlin 3.8.5
+dotnet 5.0
+c++ 13
+nodejs 14
+dotnet 10.0
+jdk 1.0
+dotnet 1.2.3
+c++ 2.1.0
+rust 7.2
+1
+4
+go 13
+nodejs 1.2
+scala 8.0
+php 1.0
+5
+swift 12
+ruby 2.9.1
+rust 4.0
+ruby 3.1
+python 1.2
+rust 13
+7
+0
+7
+c 3.8.5
+swift 1.0.0
+scala 13
+c++ 17.2
+swift 2.9.1
+c++ 1.2
+python 1.2.3
+9
+perl 17.2
+ruby 2.0
+nodejs 13
+openssl 12
+dotnet 16.5
+typescript 1.2.3
+nodejs 1.1.0
+go 3.7.2
+swift 1.0.0
+5
+kotlin 3.6.0
+scala 12
+typescript 1.1.1
+c++ 3.6.0
+typescript 17.2
+8
+java 1.2
+scala 1.1
+python 3.6.0
+nodejs 3.8.5
+swift 8.0
+java 11.0.2
+dotnet 14
+c++ 11.0.2
+2
+java 1.1.0
+python 2.1
+2
+nodejs 8.0
+java 2.1.0
+8
+jdk 2.9.1
+go 8.0
+java 3.0
+perl 9.3
+nodejs 4.0
+scala 2.1.0
+c 11
+c 1.2.3
+rust 16.5
+6
+9
+scala 1.2.3
+c++ 1.2.3
+dotnet 8.0
+ruby 8.0
+perl 11.0.2
+c 11.0.2
+java 2.0
+scala 1.3
+perl 11
+10
+php 3.0
+ruby 1.2
+c 7.2
+go 8.0
+java 4.0
+ruby 3.0
+typescript 1.0
+java 2.1.0
+c 7.2
+perl 1.0.0
+4
+perl 3.8.5
+dotnet 3.2.0
+c++ 1.2
+typescript 2.0
+7
+swift 14
+nodejs 15.0
+go 2.1.0
+nodejs 9.3
+nodejs 12
+swift 10.0
+nodejs 5.0
+10
+kotlin 1.1.1
+openssl 2.0
+rust 11
+java 1.2.3
+dotnet 3.0
+swift 11.0.2
+kotlin 1.1.1
+c++ 1.0
+scala 16.5
+c 1.0
+2
+ruby 6.1.0
+rust 14
+1
+rust 12
+rust 3.7.2
+2
+10
+java 1.1
+go 1.1
+c++ 1.0.0
+go 1.1.1
+rust 16.5
+perl 1.1
+c 9.3
+python 4.0
+java 6.1.0
+rust 2.1
+1
+ruby 11
+1
+go 12
+rust 1.0.0
+1
+9
+nodejs 3.0
+c++ 11
+perl 3.6.0
+jdk 11.0.2
+kotlin 8.0
+java 11.0.2
+python 2.0
+nodejs 15.0
+c++ 1.3
+0
+rust 6.1.0
+7
+1
+nodejs 10.0
+9
+swift 10.0
+typescript 3.2.0
+go 13
+ruby 11.0.2
+c 2.1.0
+rust 7.2
+swift 3.7.2
+jdk 3.6.0
+ruby 3.1
+7
+scala 10.0
+java 11
+scala 1.2.3
+typescript 3.2.0
+openssl 3.2.0
+ruby 16.5
+scala 1.1.0
+9
+swift 3.1
+typescript 2.9.1
+kotlin 11.0.2
+rust 1.1
+scala 4.0
+perl 7.2
+c++ 2.9.1
+nodejs 8.0
+typescript 11.0.2
+3
+go 3.0
+go 17.2
+nodejs 10.0
+7
+swift 1.0
+swift 3.0
+dotnet 1.0.0
+swift 1.2
+java 11.0.2
+jdk 4.0
+nodejs 15.0
+0
+0
+rust 1.1.1
+7
+1
+typescript 9.3
+4
+rust 1.1.0
+openssl 1.0.0
+c 17.2
+jdk 1.1.1
+0
+0
+10
+typescript 1.3
+ruby 3.6.0
+kotlin 11.0.2
+dotnet 6.1.0
+ruby 4.0
+rust 4.0
+c++ 11
+scala 14
+jdk 2.2
+perl 3.8.5
+8
+go 3.8.5
+php 11.0.2
+c 2.9.1
+perl 1.1.1
+swift 1.1.1
+openssl 6.1.0
+kotlin 4.0
+php 1.1
+6
+typescript 1.1.0
+perl 1.2
+scala 4.0
+ruby 2.1
+c 11.0.2
+ruby 13
+6
+c++ 1.1.1
+python 11.0.2
+jdk 3.7.2
+dotnet 1.3
+typescript 9.3
+scala 10.0
+perl 3.1
+7
+5
+java 15.0
+perl 3.2.0
+jdk 11.0.2
+nodejs 17.2
+c 15.0
+10
+c 2.2
+swift 1.0.0
+typescript 3.1
+rust 15.0
+jdk 7.2
+c 11.0.2
+python 1.1.1
+kotlin 13
+php 6.1.0
+openssl 10.0
+5
+c++ 5.0
+dotnet 1.0
+rust 16.5
+php 4.0
+perl 3.7.2
+2
+kotlin 2.9.1
+nodejs 1.1.1
+1
+swift 1.1
+4
+go 2.9.1
+swift 2.0
+openssl 3.2.0
+scala 11.0.2
+4
+python 1.0.0
+php 5.0
+java 2.2
+ruby 2.1.0
+1
+ruby 2.1
+perl 1.2.3
+5
+1
+java 1.0
+9
+nodejs 3.7.2
+scala 1.0.0
+c 1.0
+rust 15.0
+ruby 8.0
+swift 10.0
+typescript 9.3
+go 1.0.0
+typescript 1.0
+3
+perl 1.0
+jdk 1.1
+dotnet 1.1
+1
+python 1.1.1
+5
+rust 7.2
+php 2.9.1
+c++ 9.3
+typescript 1.1.1
+rust 2.0
+0
+perl 3.6.0
+2
+9
+nodejs 2.2
+scala 3.7.2
+perl 1.0.0
+c++ 3.2.0
+go 11
+python 3.1
+nodejs 3.0
+java 3.0
+scala 1.2
+6
+php 3.7.2
+c++ 12
+dotnet 4.0
+typescript 3.2.0
+typescript 5.0
+openssl 3.0
+5
+nodejs 5.0
+rust 1.2
+c++ 1.1.0
+scala 1.1.1
+java 1.0
+perl 3.8.5
+8
+3
+perl 2.1.0
+dotnet 3.2.0
+c++ 2.2
+0
+9
+scala 3.6.0
+jdk 15.0
+c++ 9.3
+java 3.1
+go 7.2
+c++ 2.0
+rust 13
+swift 4.0
+go 3.8.5
+6
+typescript 3.1
+jdk 11
+scala 14
+nodejs 2.9.1
+perl 1.0
+java 1.3
+3
+java 5.0
+scala 2.1
+rust 3.6.0
+3
+nodejs 2.0
+python 3.2.0
+c++ 3.7.2
+7
+typescript 1.0.0
+python 9.3
+openssl 11
+perl 1.2
+c 2.9.1
+java 13
+typescript 3.6.0
+4
+kotlin 17.2
+rust 3.6.0
+typescript 2.9.1
+openssl 2.1.0
+3
+python 10.0
+ruby 3.8.5
+python 13
+perl 3.7.2
+1
+0
+0
+perl 8.0
+4
+5
+java 1.0.0
+typescript 13
+perl 1.1.1
+jdk 9.3
+jdk 2.1.0
+2
+rust 13
+ruby 13
+8
+c 2.0
+ruby 10.0
+java 11
+go 5.0
+java 2.0
+go 3.2.0
+go 1.2.3
+go 2.1.0
+6
+typescript 1.2.3
+perl 2.0
+swift 2.9.1
+nodejs 1.0
+typescript 15.0
+scala 6.1.0
+0
+perl 5.0
+4
+3
+openssl 3.6.0
+c 3.0
+python 15.0
+5
+perl 3.1
+java 9.3
+java 1.1
+php 1.2
+dotnet 6.1.0
+10
+jdk 1.1.0
+python 3.0
+jdk 1.1
+c++ 2.1
+rust 2.1
+java 1.0
+swift 10.0
+php 11
+scala 1.0.0
+java 2.2
+5
+ruby 7.2
+swift 2.2
+nodejs 11
+java 10.0
+c++ 12
+9
+swift 11.0.2
+perl 1.0
+php 1.1
+php 1.2.3
+c++ 4.0
+swift 1.2.3
+perl 1.2.3
+scala 15.0
+dotnet 1.3
+perl 2.9.1
+7
+0
+7
+ruby 5.0
+ruby 1.0
+jdk 1.0.0
+rust 4.0
+java 3.8.5
+rust 7.2
+perl 9.3
+4
+openssl 1.3
+c 1.3
+nodejs 9.3
+c 4.0
+5
+ruby 3.2.0
+rust 16.5
+c++ 17.2
+ruby 1.2
+ruby 1.0
+0
+9
+ruby 3.8.5
+kotlin 3.7.2
+typescript 14
+python 5.0
+openssl 17.2
+go 4.0
+php 1.1.0
+c++ 2.1.0
+jdk 7.2
+3
+python 3.1
+rust 12
+typescript 11
+0
+perl 11.0.2
+5
+7
+php 3.1
+typescript 3.1
+dotnet 17.2
+nodejs 1.0.0
+perl 4.0
+swift 8.0
+ruby 1.2
+9
+openssl 2.9.1
+swift 11
+go 17.2
+ruby 6.1.0
+jdk 5.0
+typescript 3.0
+nodejs 1.2.3
+jdk 3.2.0
+dotnet 1.1.1
+8
+openssl 12
+c++ 2.9.1
+jdk 15.0
+dotnet 1.3
+go 1.2
+ruby 2.0
+kotlin 4.0
+scala 17.2
+6
+dotnet 1.1.1
+c 6.1.0
+openssl 1.2
+swift 1.2.3
+c++ 15.0
+c 1.1.0
+9
+typescript 3.6.0
+python 1.2
+ruby 3.2.0
+go 1.1.0
+scala 6.1.0
+openssl 1.1.0
+ruby 4.0
+c 3.6.0
+php 13
+2
+scala 17.2
+swift 7.2
+perl 3.2.0
+5
+9
+python 1.2.3
+nodejs 12
+php 1.2.3
+scala 1.1
+scala 2.2
+openssl 8.0
+nodejs 1.2.3
+dotnet 1.0
+typescript 11.0.2
+5
+ruby 1.1.0
+dotnet 12
+openssl 6.1.0
+scala 3.2.0
+c 2.2
+7
+ruby 1.2
+go 11
+openssl 1.1
+perl 8.0
+openssl 17.2
+swift 7.2
+c++ 14
+6
+java 2.2
+scala 11
+java 9.3
+php 16.5
+nodejs 3.0
+c 10.0
+5
+ruby 4.0
+dotnet 3.8.5
+rust 3.0
+swift 14
+php 13
+3
+c 1.0.0
+c++ 2.9.1
+ruby 13
+kotlin 3.0
+1
+3
+jdk 2.9.1
+dotnet 3.6.0
+swift 16.5
+10
+dotnet 2.9.1
+dotnet 1.0
+swift 3.6.0
+perl 2.1
+swift 2.2
+typescript 13
+rust 1.2.3
+jdk 16.5
+nodejs 10.0
+jdk 16.5
+kotlin 1.0
+6
+5
+php 17.2
+jdk 1.0.0
+openssl 7.2
+ruby 15.0
+dotnet 3.8.5
+2
+dotnet 5.0
+python 3.7.2
+7
+jdk 3.8.5
+typescript 1.1.0
+perl 2.9.1
+ruby 7.2
+openssl 1.1.1
+dotnet 7.2
+java 12
+1
+dotnet 1.1
+10
+typescript 3.6.0
+python 12
+php 1.2.3
+go 11.0.2
+rust 2.2
+c 2.2
+jdk 1.2
+openssl 1.2.3
+scala 3.8.5
+kotlin 3.7.2
+2
+rust 9.3
+nodejs 6.1.0
+4
+scala 2.2
+typescript 15.0
+swift 3.6.0
+nodejs 11.0.2
+kotlin 12
+1
+9
+php 3.1
+nodejs 1.0.0
+php 1.3
+openssl 3.0
+perl 1.1.0
+swift 3.1
+nodejs 11.0.2
+jdk 3.8.5
+c++ 1.1
+9
+c 1.1.1
+c++ 11
+rust 4.0
+java 1.1.0
+kotlin 7.2
+nodejs 1.1.1
+swift 2.2
+scala 1.0.0
+nodejs 13
+kotlin 1.1.1
+4
+10
+jdk 3.1
+swift 17.2
+java 1.3
+c++ 1.2.3
+rust 13
+openssl 1.0.0
+nodejs 11.0.2
+scala 2.2
+scala 1.2.3
+dotnet 3.1
+1
+php 2.1
+5
+openssl 1.0.0
+c 12
+rust 3.2.0
+nodejs 3.6.0
+jdk 3.1
+7
+kotlin 2.0
+jdk 11
+scala 11
+php 3.6.0
+php 11
+jdk 2.0
+go 16.5
+0
+kotlin 3.6.0
+3
+9
+c 3.1
+typescript 1.2.3
+typescript 11
+swift 11.0.2
+python 9.3
+scala 1.2
+go 11.0.2
+jdk 3.0
+c 5.0
+8
+jdk 11.0.2
+perl 1.1.0
+jdk 3.6.0
+python 3.2.0
+java 1.0
+swift 6.1.0
+php 3.8.5
+openssl 16.5
+3
+dotnet 3.1
+go 1.3
+c++ 13
+1
+c 1.2.3
+kotlin 1.2.3
+5
+2
+dotnet 1.0.0
+jdk 5.0
+6
+jdk 14
+swift 5.0
+c++ 3.2.0
+perl 14
+c 2.9.1
+go 3.7.2
+5
+jdk 1.1.0
+c 12
+openssl 3.6.0
+openssl 1.1.1
+php 1.0.0
+6
+dotnet 2.0
+java 7.2
+dotnet 3.1
+dotnet 4.0
+dotnet 2.2
+perl 2.0
+9
+kotlin 7.2
+python 11.0.2
+ruby 1.1.0
+jdk 13
+dotnet 3.8.5
+ruby 7.2
+c 15.0
+php 17.2
+c++ 3.7.2
+3
+nodejs 6.1.0
+swift 1.0.0
+ruby 1.1.0
+kotlin 15.0
+6
+7
+scala 3.8.5
+c 3.6.0
+jdk 2.1
+c++ 7.2
+typescript 1.1.0
+jdk 7.2
+scala 1.1
+4
+java 2.0
+java 2.0
+c++ 3.8.5
+openssl 2.9.1
+7
+python 10.0
+swift 3.7.2
+java 1.1.0
+swift 3.8.5
+c++ 13
+c++ 1.3
+python 15.0
+2
+php 3.8.5
+go 15.0
+3
+php 6.1.0
+scala 2.1
+ruby 13
+1
+perl 6.1.0
+10
+php 3.2.0
+openssl 16.5
+dotnet 3.7.2
+perl 1.1
+c 2.2
+scala 1.1.1
+dotnet 3.2.0
+kotlin 1.0.0
+jdk 2.2
+kotlin 4.0
+kotlin 3.8.5
+4
+6
+rust 8.0
+typescript 3.8.5
+openssl 1.1.0
+typescript 9.3
+python 1.0
+swift 2.1.0
+2
+openssl 14
+ruby 1.1.0
+9
+perl 1.2.3
+typescript 2.2
+c 7.2
+c++ 1.2.3
+c++ 11
+jdk 1.2.3
+jdk 1.1
+rust 7.2
+go 2.2
+9
+kotlin 2.2
+scala 17.2
+jdk 3.1
+typescript 1.3
+php 8.0
+scala 4.0
+nodejs 3.6.0
+java 2.9.1
+jdk 1.3
+2
+kotlin 13
+kotlin 3.8.5
+jdk 1.2.3
+0
+3
+jdk 3.7.2
+php 14
+typescript 2.1
+jdk 2.1
+4
+0
+4
+dotnet 1.0.0
+perl 6.1.0
+openssl 3.8.5
+rust 3.0
+6
+php 1.0.0
+go 16.5
+c++ 10.0
+rust 3.7.2
+nodejs 16.5
+c 1.1.1
+4
+nodejs 3.7.2
+scala 3.8.5
+typescript 13
+kotlin 2.0
+5
+dotnet 2.1
+scala 3.7.2
+php 7.2
+kotlin 6.1.0
+ruby 1.0.0
+jdk 12
+3
+10
+c++ 17.2
+ruby 4.0
+python 16.5
+scala 3.6.0
+kotlin 3.6.0
+ruby 1.2
+swift 13
+go 11
+kotlin 7.2
+scala 12
+8
+kotlin 13
+nodejs 1.1
+openssl 3.8.5
+java 12
+perl 11.0.2
+nodejs 3.6.0
+perl 2.1
+scala 10.0
+0
+6
+dotnet 2.9.1
+nodejs 5.0
+perl 1.0
+swift 3.1
+python 13
+scala 5.0
+jdk 6.1.0
+0
+4
+nodejs 1.2.3
+c 7.2
+scala 8.0
+scala 2.2
+jdk 1.0.0
+10
+7
+jdk 2.2
+php 1.1.0
+openssl 1.1.1
+python 15.0
+ruby 11.0.2
+php 2.1
+kotlin 1.0
+9
+c 6.1.0
+rust 3.2.0
+rust 13
+typescript 3.6.0
+dotnet 1.1.0
+nodejs 12
+ruby 13
+c 14
+go 15.0
+3
+jdk 1.1.1
+c 13
+python 3.0
+7
+kotlin 7.2
+php 16.5
+kotlin 3.7.2
+openssl 17.2
+jdk 11.0.2
+c++ 2.2
+python 4.0
+0
+9
+go 15.0
+openssl 1.2.3
+openssl 3.2.0
+nodejs 1.0.0
+java 16.5
+dotnet 2.1.0
+ruby 1.1.1
+go 2.2
+python 7.2
+5
+scala 15.0
+c 3.6.0
+c++ 1.1.0
+java 1.1.1
+python 10.0
+2
+scala 1.3
+python 15.0
+10
+ruby 2.2
+scala 1.1.1
+typescript 2.1
+scala 2.9.1
+c++ 2.9.1
+python 3.1
+c 9.3
+go 10.0
+c++ 9.3
+c++ 2.2
+8
+go 2.1
+swift 1.0.0
+openssl 1.0.0
+c++ 7.2
+jdk 7.2
+rust 1.0
+python 1.1.0
+dotnet 17.2
+5
+c 10.0
+perl 1.3
+go 2.1.0
+kotlin 2.9.1
+go 5.0
+jdk 3.6.0
+4
+9
+jdk 2.1
+php 3.1
+scala 13
+php 5.0
+c++ 15.0
+php 3.8.5
+ruby 1.0.0
+rust 13
+scala 1.0.0
+10
+typescript 2.1
+openssl 1.1.1
+openssl 2.2
+ruby 1.0.0
+swift 7.2
+dotnet 1.1.0
+scala 3.6.0
+jdk 14
+swift 3.7.2
+dotnet 1.0.0
+1
+kotlin 11.0.2
+3
+c++ 1.2.3
+php 2.0
+scala 1.2
+6
+php 12
+perl 3.6.0
+nodejs 10.0
+go 1.1
+nodejs 13
+swift 1.0.0
+jdk 1.1.0
+7
+2
+jdk 16.5
+go 5.0
+2
+kotlin 16.5
+rust 11.0.2
+3
+php 2.1
+python 6.1.0
+java 9.3
+2
+typescript 12
+php 1.1.1
+3
+openssl 2.9.1
+kotlin 7.2
+rust 2.9.1
+4
+jdk 11
+dotnet 2.0
+openssl 3.2.0
+go 2.1
+1
+python 11
+10
+dotnet 9.3
+c++ 17.2
+php 9.3
+nodejs 10.0
+c 1.0
+java 8.0
+c++ 2.1.0
+c 1.1.0
+php 2.9.1
+go 16.5
+jdk 10.0
+5
+6
+openssl 11.0.2
+swift 12
+java 15.0
+jdk 2.0
+python 1.2.3
+java 1.2
+10
+swift 4.0
+python 12
+c++ 17.2
+java 1.1
+openssl 6.1.0
+c 10.0
+java 17.2
+rust 1.0
+php 6.1.0
+kotlin 11.0.2
+7
+jdk 2.0
+jdk 16.5
+nodejs 3.6.0
+jdk 7.2
+c 15.0
+jdk 3.1
+c++ 2.2
+3
+php 16.5
+dotnet 1.3
+java 3.0
+5
+rust 2.9.1
+php 3.1
+c 16.5
+jdk 3.7.2
+perl 3.7.2
+6
+nodejs 1.1.0
+jdk 1.0.0
+nodejs 1.1.0
+kotlin 4.0
+ruby 2.0
+python 2.1.0
+jdk 2.0
+2
+4
+typescript 3.0
+dotnet 1.2.3
+dotnet 1.2
+kotlin 9.3
+0
+9
+python 16.5
+ruby 1.3
+go 9.3
+jdk 1.1
+perl 11
+ruby 1.1.0
+python 2.0
+dotnet 1.1.0
+java 14
+jdk 11.0.2
+3
+8
+java 2.0
+go 1.1
+kotlin 3.2.0
+jdk 3.2.0
+java 9.3
+rust 2.0
+java 2.1.0
+scala 12
+8
+python 2.1.0
+rust 1.2
+scala 16.5
+swift 1.2
+php 15.0
+scala 2.1
+c 11
+dotnet 1.0
+0
+7
+php 15.0
+jdk 12
+typescript 10.0
+scala 3.8.5
+c 2.0
+rust 2.9.1
+typescript 1.2.3
+jdk 1.2
+4
+3
+python 1.0
+nodejs 3.7.2
+rust 10.0
+7
+openssl 3.1
+openssl 1.1.1
+go 3.6.0
+scala 2.2
+openssl 2.9.1
+swift 13
+jdk 2.2
+10
+perl 1.1
+kotlin 9.3
+nodejs 15.0
+perl 1.2.3
+php 1.1.0
+openssl 3.2.0
+dotnet 1.2
+perl 2.2
+nodejs 3.1
+php 1.2.3
+3
+scala 2.1
+rust 3.6.0
+c 13
+0
+ruby 2.9.1
+7
+1
+dotnet 11.0.2
+8
+swift 1.2
+php 11
+swift 2.0
+perl 2.1
+python 3.1
+c 3.8.5
+scala 1.2.3
+rust 1.3
+0
+8
+rust 1.0.0
+go 15.0
+jdk 3.2.0
+c++ 1.3
+dotnet 12
+kotlin 3.8.5
+perl 6.1.0
+c 3.7.2
+5
+php 9.3
+ruby 1.3
+dotnet 1.3
+nodejs 1.3
+nodejs 3.0
+4
+rust 15.0
+typescript 5.0
+c++ 3.2.0
+go 17.2
+3
+rust 3.8.5
+php 3.7.2
+c++ 11
+6
+scala 1.1
+java 3.0
+jdk 2.9.1
+c++ 1.0
+openssl 7.2
+scala 1.3
+ruby 1.0.0
+5
+8
+ruby 8.0
+swift 2.1.0
+swift 5.0
+nodejs 1.1
+rust 5.0
+openssl 9.3
+ruby 14
+php 14
+10
+nodejs 1.1
+openssl 3.1
+c++ 1.0.0
+nodejs 8.0
+perl 5.0
+typescript 1.0.0
+go 4.0
+c 6.1.0
+dotnet 11
+c++ 3.1
+4
+openssl 1.0
+ruby 2.2
+rust 1.1
+php 1.0
+4
+swift 2.1.0
+java 1.0.0
+php 11
+go 11.0.2
+0
+6
+scala 12
+go 11
+dotnet 5.0
+c++ 1.3
+java 1.1.0
+go 2.2
+ruby 4.0
+10
+0
+1
+kotlin 1.1.1
+5
+scala 2.2
+java 13
+scala 12
+dotnet 11.0.2
+ruby 1.1.1
+5
+c++ 3.6.0
+nodejs 2.1
+dotnet 1.3
+typescript 11.0.2
+dotnet 3.7.2
+5
+jdk 11.0.2
+nodejs 1.1.1
+kotlin 1.1
+openssl 3.8.5
+perl 2.1
+8
+dotnet 12
+scala 15.0
+python 11.0.2
+swift 13
+scala 17.2
+go 5.0
+dotnet 14
+perl 7.2
+6
+jdk 1.0.0
+dotnet 9.3
+swift 11.0.2
+openssl 16.5
+scala 2.2
+rust 3.0
+5
+python 11
+go 11
+go 3.8.5
+c 2.0
+perl 1.3
+3
+swift 3.1
+rust 1.2
+java 2.9.1
+4
+typescript 1.0.0
+java 1.1.0
+go 2.0
+go 1.0.0
+3
+perl 17.2
+python 1.0
+openssl 1.2.3
+ruby 1.2.3
+10
+0
+3
+perl 2.9.1
+c 1.2.3
+dotnet 13
+6
+perl 2.9.1
+nodejs 8.0
+perl 1.0
+jdk 2.2
+rust 7.2
+openssl 10.0
+10
+php 1.1
+scala 10.0
+go 3.0
+swift 14
+python 6.1.0
+perl 3.8.5
+swift 11
+c 14
+java 2.0
+jdk 2.0
+9
+go 1.2.3
+java 2.9.1
+c 1.1
+nodejs 11.0.2
+php 2.2
+go 6.1.0
+perl 1.0.0
+c 3.2.0
+perl 7.2
+4
+typescript 1.2.3
+dotnet 3.6.0
+rust 1.0.0
+kotlin 2.2
+7
+c 3.8.5
+jdk 3.2.0
+python 1.2
+perl 2.2
+python 11
+scala 1.1.1
+typescript 3.7.2
+0
+3
+typescript 3.0
+openssl 6.1.0
+openssl 2.2
+2
+dotnet 9.3
+python 1.1.0
+0
+ruby 1.3
+8
+10
+java 2.1.0
+c++ 11
+c 3.6.0
+typescript 3.6.0
+php 2.1.0
+python 1.2
+typescript 3.2.0
+typescript 1.3
+rust 3.8.5
+typescript 1.1.1
+10
+ruby 1.1.1
+scala 1.0
+python 2.1
+python 9.3
+python 6.1.0
+typescript 10.0
+nodejs 3.8.5
+perl 10.0
+openssl 1.0.0
+perl 1.3
+7
+rust 16.5
+openssl 9.3
+java 1.0
+jdk 1.3
+php 1.1.1
+swift 6.1.0
+ruby 2.1.0
+1
+ruby 2.0
+1
+java 3.8.5
+4
+openssl 3.1
+scala 2.1.0
+perl 3.2.0
+go 9.3
+10
+openssl 1.1.1
+go 6.1.0
+typescript 1.1
+swift 3.2.0
+rust 2.1.0
+typescript 2.9.1
+jdk 1.1
+c++ 8.0
+dotnet 3.1
+typescript 10.0
+7
+kotlin 1.1.0
+python 7.2
+java 3.6.0
+dotnet 3.0
+c 14
+rust 14
+perl 15.0
+6
+kotlin 3.0
+typescript 1.1.1
+perl 11
+python 1.1.0
+dotnet 11.0.2
+perl 1.3
+ruby 3.0
+7
+5
+perl 14
+jdk 5.0
+nodejs 3.7.2
+c 1.2
+openssl 1.1
+6
+nodejs 3.8.5
+c++ 3.7.2
+c 1.1.1
+c 1.0.0
+typescript 9.3
+nodejs 3.0
+2
+ruby 3.6.0
+nodejs 5.0
+2
+ruby 1.3
+perl 10.0
+6
+java 1.0
+php 3.7.2
+c 1.0.0
+java 6.1.0
+c 3.2.0
+c 2.1
+0
+10
+c++ 1.2
+nodejs 2.1.0
+python 1.0.0
+jdk 3.8.5
+openssl 3.0
+scala 16.5
+java 15.0
+dotnet 1.2
+java 3.7.2
+java 8.0
+5
+jdk 2.1
+openssl 1.0.0
+openssl 2.0
+perl 6.1.0
+nodejs 5.0
+ruby 13
+10
+6
+swift 14
+openssl 2.0
+go 11.0.2
+openssl 11.0.2
+c++ 6.1.0
+c++ 11.0.2
+3
+scala 5.0
+scala 12
+c++ 1.0
+9
+kotlin 9.3
+perl 2.9.1
+python 12
+rust 2.2
+java 11
+rust 1.2.3
+swift 2.1.0
+ruby 2.1
+nodejs 14
+2
+c++ 17.2
+go 13
+4
+ruby 14
+nodejs 2.9.1
+java 1.1.0
+jdk 14
+1
+openssl 11
+2
+nodejs 1.0
+c++ 1.1.1
+5
+java 8.0
+nodejs 2.2
+c++ 1.1.0
+c 1.1.0
+php 7.2
+9
+typescript 4.0
+scala 1.1.0
+go 2.9.1
+typescript 11
+go 12
+scala 1.0.0
+c 2.2
+openssl 17.2
+openssl 12
+0
+0
+ruby 7.2
+0
+0
+ruby 16.5
+2
+9
+openssl 15.0
+dotnet 3.1
+scala 2.2
+openssl 1.1.0
+php 11.0.2
+python 8.0
+dotnet 1.2
+swift 13
+go 10.0
+8
+ruby 2.0
+c 9.3
+rust 1.3
+java 3.0
+swift 1.3
+scala 5.0
+jdk 3.1
+java 17.2
+2
+nodejs 2.1.0
+kotlin 3.1
+ruby 12
+3
+1
+go 13
+2
+perl 3.7.2
+ruby 6.1.0
+2
+openssl 17.2
+nodejs 12
+0
+dotnet 11.0.2
+5
+8
+perl 11
+scala 1.0
+nodejs 3.1
+jdk 15.0
+kotlin 1.1.1
+openssl 16.5
+swift 15.0
+java 15.0
+9
+java 16.5
+python 3.0
+c++ 3.1
+python 1.3
+scala 8.0
+perl 11.0.2
+jdk 13
+perl 14
+php 2.2
+4
+java 1.3
+openssl 1.3
+ruby 3.8.5
+java 13
+8
+perl 2.1
+swift 1.2.3
+rust 1.1
+kotlin 3.2.0
+kotlin 5.0
+php 2.1
+c++ 3.6.0
+swift 4.0
+3
+jdk 10.0
+nodejs 2.0
+scala 17.2
+4
+jdk 7.2
+nodejs 1.2
+typescript 2.2
+python 12
+dotnet 3.0
+10
+3
+go 3.2.0
+ruby 3.8.5
+c++ 8.0
+6
+nodejs 1.2
+php 1.2
+ruby 2.1.0
+c++ 3.1
+java 6.1.0
+swift 3.6.0
+4
+scala 12
+jdk 13
+rust 1.0.0
+jdk 2.2
+9
+go 17.2
+rust 9.3
+perl 2.2
+openssl 2.9.1
+go 3.8.5
+jdk 13
+scala 1.0.0
+java 2.0
+go 2.2
+5
+python 15.0
+jdk 1.2
+perl 16.5
+openssl 3.7.2
+jdk 3.0
+0
+7
+python 2.1
+swift 1.1.0
+java 17.2
+c++ 3.1
+perl 10.0
+rust 5.0
+php 6.1.0
+8
+jdk 1.3
+openssl 3.0
+kotlin 17.2
+openssl 2.1.0
+typescript 1.1
+go 17.2
+go 14
+ruby 14
+2
+openssl 3.7.2
+scala 13
+1
+perl 3.8.5
+1
+java 10.0
+dotnet 2.0
+2
+5
+php 2.2
+typescript 1.3
+jdk 11
+c 2.2
+typescript 1.0
+4
+perl 14
+python 7.2
+c++ 3.1
+python 1.1.1
+9
+go 3.0
+c++ 2.2
+dotnet 15.0
+c 1.0
+dotnet 15.0
+swift 16.5
+dotnet 3.0
+ruby 11.0.2
+go 1.0.0
+dotnet 1.3
+7
+0
+4
+c 3.2.0
+kotlin 1.2
+python 15.0
+ruby 3.2.0
+10
+php 4.0
+perl 1.0
+c++ 2.2
+swift 4.0
+scala 3.7.2
+c++ 1.2
+kotlin 7.2
+dotnet 1.1.0
+scala 16.5
+go 14
+9
+dotnet 7.2
+python 2.1.0
+typescript 14
+openssl 1.2
+python 14
+dotnet 1.3
+python 3.0
+c++ 3.8.5
+jdk 1.0.0
+4
+ruby 1.1.0
+c 3.7.2
+jdk 1.3
+go 7.2
+9
+java 8.0
+scala 3.2.0
+perl 1.0
+ruby 2.1.0
+dotnet 2.1.0
+scala 3.6.0
+go 11.0.2
+c++ 2.0
+php 1.0
+8
+php 14
+rust 5.0
+go 1.1.0
+swift 3.0
+rust 2.1.0
+scala 15.0
+kotlin 3.8.5
+php 16.5
+7
+python 1.1.0
+kotlin 9.3
+nodejs 5.0
+typescript 1.1
+openssl 15.0
+rust 11.0.2
+typescript 1.3
+dotnet 1.1.0
+10
+6
+ruby 2.0
+rust 3.1
+rust 3.6.0
+scala 1.2
+rust 1.2.3
+typescript 4.0
+1
+c 11.0.2
+7
+c 3.1
+kotlin 1.1.0
+rust 3.8.5
+scala 1.3
+ruby 11
+dotnet 3.6.0
+php 10.0
+4
+jdk 3.8.5
+jdk 10.0
+jdk 11
+c++ 9.3
+0
+6
+swift 17.2
+php 3.7.2
+python 15.0
+java 2.9.1
+rust 11
+dotnet 1.1.1
+10
+kotlin 11
+dotnet 2.2
+java 3.1
+rust 1.0.0
+python 11.0.2
+scala 2.1.0
+perl 1.0
+openssl 1.0.0
+openssl 11
+perl 4.0
+6
+python 1.3
+swift 4.0
+java 3.1
+swift 9.3
+nodejs 16.5
+typescript 3.8.5
+6
+rust 3.1
+jdk 5.0
+ruby 7.2
+jdk 2.0
+dotnet 16.5
+openssl 4.0
+4
+php 6.1.0
+dotnet 1.0.0
+c++ 2.2
+dotnet 15.0
+7
+c++ 10.0
+perl 12
+c 3.6.0
+jdk 11
+php 3.1
+kotlin 13
+php 4.0
+dotnet 5.0
+1
+7
+openssl 2.9.1
+kotlin 2.0
+java 15.0
+nodejs 3.7.2
+dotnet 5.0
+php 9.3
+java 14
+3
+scala 1.1
+php 15.0
+openssl 2.1
+dotnet 1.2.3
+7
+6
+java 1.2.3
+rust 14
+perl 1.1.1
+php 15.0
+java 3.8.5
+php 1.0
+6
+c++ 2.0
+python 9.3
+scala 16.5
+go 2.1
+swift 16.5
+kotlin 15.0
+9
+dotnet 3.8.5
+typescript 3.0
+openssl 5.0
+swift 6.1.0
+c 8.0
+java 1.1
+nodejs 7.2
+jdk 1.1.1
+python 15.0
+10
+kotlin 2.1
+php 5.0
+c++ 3.8.5
+perl 1.1
+php 12
+c 9.3
+rust 11.0.2
+perl 15.0
+scala 1.1.0
+nodejs 10.0
+8
+go 1.2.3
+scala 1.2
+typescript 2.2
+kotlin 2.0
+perl 3.8.5
+typescript 1.0
+jdk 2.0
+kotlin 16.5
+10
+jdk 3.6.0
+go 9.3
+c 1.1
+jdk 1.1.0
+perl 3.1
+ruby 3.1
+c 7.2
+kotlin 3.7.2
+go 13
+php 1.1.1
+2
+openssl 11.0.2
+typescript 1.0
+8
+jdk 15.0
+nodejs 2.9.1
+kotlin 6.1.0
+ruby 10.0
+dotnet 17.2
+go 2.9.1
+nodejs 7.2
+rust 13
+75
+openssl 3.8.5
+java 7.2
+perl 2.1.0
+swift 1.0.0
+php 3.7.2
+php 4.0
+kotlin 17.2
+nodejs 11.0.2
+ruby 2.2
+rust 8.0
+c 3.8.5
+go 7.2
+go 10.0
+php 5.0
+c 3.2.0
+go 1.2.3
+java 8.0
+c 3.6.0
+jdk 1.2
+swift 2.0
+c 1.1
+nodejs 10.0
+perl 1.2
+c++ 1.1
+php 1.1.1
+perl 9.3
+c 3.2.0
+typescript 3.7.2
+python 13
+swift 17.2
+kotlin 6.1.0
+perl 12
+dotnet 3.2.0
+jdk 3.6.0
+java 3.8.5
+scala 3.6.0
+c++ 9.3
+perl 3.1
+openssl 3.2.0
+go 16.5
+nodejs 9.3
+kotlin 1.2
+php 3.8.5
+dotnet 1.1.1
+ruby 17.2
+python 9.3
+scala 2.2
+ruby 4.0
+go 3.6.0
+dotnet 2.1
+openssl 3.2.0
+c++ 3.1
+nodejs 1.3
+dotnet 2.2
+kotlin 4.0
+php 11.0.2
+jdk 11
+jdk 6.1.0
+jdk 5.0
+go 7.2
+jdk 3.1
+ruby 2.9.1
+rust 3.7.2
+rust 3.1
+scala 3.2.0
+openssl 3.2.0
+nodejs 3.7.2
+typescript 14
+php 3.1
+dotnet 2.1
+java 2.1.0
+php 1.0.0
+c 3.0
+python 3.1
+c 6.1.0
+swift 6.1.0
